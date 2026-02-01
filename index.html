@@ -7,79 +7,250 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", sans-serif;
             color: #1a1a1a;
-            background: #fafafa;
-            line-height: 1.6;
+            background: #FAFAF8;
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
         }
-        .container { max-width: 640px; margin: 0 auto; padding: 0 24px; }
+        .container { max-width: 600px; margin: 0 auto; padding: 0 24px; }
+
+        /* Header */
         header {
-            padding: 48px 0 32px;
+            padding: 64px 0 20px;
             text-align: center;
         }
         header h1 {
-            font-size: 32px;
-            font-weight: 600;
-            letter-spacing: -0.5px;
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.8px;
+            color: #1a1a1a;
         }
-        header p {
-            font-size: 17px;
-            color: #666;
-            margin-top: 8px;
+        header .tagline {
+            font-size: 15px;
+            color: #6B6B6B;
+            margin-top: 4px;
+            font-weight: 400;
         }
+
+        /* Nav */
         nav {
             display: flex;
             justify-content: center;
-            gap: 24px;
-            padding: 16px 0 32px;
-            border-bottom: 1px solid #e5e5e5;
+            gap: 32px;
+            padding: 20px 0 40px;
         }
         nav a {
-            color: #0066cc;
+            color: #6B6B6B;
             text-decoration: none;
-            font-size: 15px;
+            font-size: 13px;
             font-weight: 500;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+            transition: color 0.2s;
         }
-        nav a:hover { text-decoration: underline; }
-        section { padding: 32px 0; }
+        nav a:hover { color: #1a1a1a; }
+
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 0 0 48px;
+        }
+        .hero p {
+            font-size: 16px;
+            color: #6B6B6B;
+            line-height: 1.7;
+            max-width: 480px;
+            margin: 0 auto;
+        }
+
+        /* Metric pills */
+        .metrics {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            margin-top: 24px;
+            flex-wrap: wrap;
+        }
+        .pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+            background: white;
+            box-shadow: 0 1px 3px rgba(26,26,26,0.04);
+        }
+        .pill .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        .dot-vo2 { background: #5AA3A3; }
+        .dot-rhr { background: #C27C7C; }
+        .dot-sleep { background: #7C7CAA; }
+        .dot-daylight { background: #C4A55A; }
+        .dot-workouts { background: #4CAF50; }
+        .dot-stress { background: #B07A5B; }
+
+        /* Divider */
+        .divider {
+            height: 1px;
+            background: #E5E4E1;
+            margin: 0;
+        }
+
+        /* Sections */
+        section {
+            padding: 48px 0;
+        }
         section h2 {
-            font-size: 22px;
-            font-weight: 600;
-            margin-bottom: 16px;
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: -0.4px;
+            margin-bottom: 24px;
+            color: #1a1a1a;
         }
         section h3 {
-            font-size: 17px;
+            font-size: 15px;
             font-weight: 600;
-            margin: 20px 0 8px;
+            margin: 28px 0 8px;
+            color: #1a1a1a;
+        }
+        section h3:first-of-type {
+            margin-top: 0;
         }
         section p, section li {
-            font-size: 15px;
-            color: #444;
-            margin-bottom: 12px;
+            font-size: 14px;
+            color: #6B6B6B;
+            margin-bottom: 8px;
+            line-height: 1.7;
         }
-        section ul { padding-left: 20px; }
-        section li { margin-bottom: 8px; }
+        section ul {
+            padding-left: 18px;
+            margin-bottom: 8px;
+        }
+        section li {
+            margin-bottom: 4px;
+        }
+        section a {
+            color: #5AA3A3;
+            text-decoration: none;
+        }
+        section a:hover {
+            text-decoration: underline;
+        }
+        .date-badge {
+            display: inline-block;
+            font-size: 12px;
+            color: #B0B0B0;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        /* Card */
         .card {
-            background: #fff;
-            border-radius: 12px;
+            background: #FFFFFF;
+            border-radius: 16px;
             padding: 24px;
-            margin: 16px 0;
-            border: 1px solid #e5e5e5;
+            margin: 20px 0;
+            box-shadow: 0 2px 12px rgba(26,26,26,0.03);
         }
+
+        /* Form */
+        .form-group {
+            margin-bottom: 16px;
+        }
+        .form-label {
+            display: block;
+            font-size: 12px;
+            font-weight: 600;
+            color: #B0B0B0;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        .form-input {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #E5E4E1;
+            border-radius: 12px;
+            font-size: 15px;
+            font-family: inherit;
+            background: #FAFAF8;
+            color: #1a1a1a;
+            transition: border-color 0.2s;
+            -webkit-appearance: none;
+        }
+        .form-input:focus {
+            outline: none;
+            border-color: #5AA3A3;
+        }
+        textarea.form-input {
+            resize: vertical;
+            min-height: 120px;
+        }
+        .btn {
+            width: 100%;
+            padding: 14px;
+            background: #1a1a1a;
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            transition: opacity 0.2s;
+        }
+        .btn:hover { opacity: 0.85; }
+
+        .support-note {
+            text-align: center;
+            font-size: 13px;
+            color: #B0B0B0;
+            margin-top: 16px;
+        }
+        .support-note a {
+            color: #5AA3A3;
+            text-decoration: none;
+        }
+
+        /* Footer */
         footer {
             text-align: center;
-            padding: 32px 0;
-            color: #999;
-            font-size: 13px;
-            border-top: 1px solid #e5e5e5;
+            padding: 40px 0;
+            color: #B0B0B0;
+            font-size: 12px;
+            border-top: 1px solid #E5E4E1;
         }
+
+        /* Dark mode */
         @media (prefers-color-scheme: dark) {
-            body { background: #111; color: #e5e5e5; }
-            section p, section li { color: #aaa; }
-            .card { background: #1a1a1a; border-color: #333; }
-            nav { border-color: #333; }
-            footer { border-color: #333; color: #666; }
-            header p { color: #888; }
+            body { background: #1C1C1E; color: #F5F5F5; }
+            header h1 { color: #F5F5F5; }
+            nav a { color: #8E8E93; }
+            nav a:hover { color: #F5F5F5; }
+            .hero p { color: #8E8E93; }
+            .pill { background: #2C2C2E; box-shadow: none; color: #F5F5F5; }
+            .divider { background: #3A3A3C; }
+            section h2 { color: #F5F5F5; }
+            section h3 { color: #F5F5F5; }
+            section p, section li { color: #8E8E93; }
+            .date-badge { color: #636366; }
+            .card { background: #2C2C2E; box-shadow: none; }
+            .form-label { color: #636366; }
+            .form-input {
+                background: #1C1C1E;
+                border-color: #3A3A3C;
+                color: #F5F5F5;
+            }
+            .form-input:focus { border-color: #5AA3A3; }
+            .btn { background: #F5F5F5; color: #1C1C1E; }
+            .support-note { color: #636366; }
+            footer { border-color: #3A3A3C; color: #636366; }
         }
     </style>
 </head>
@@ -87,21 +258,31 @@
     <div class="container">
         <header>
             <h1>luen</h1>
-            <p>Your fitness, decoded</p>
+            <p class="tagline">Your fitness, decoded</p>
         </header>
 
         <nav>
-            <a href="#privacy">Privacy Policy</a>
+            <a href="#privacy">Privacy</a>
             <a href="#support">Support</a>
         </nav>
 
-        <section>
+        <div class="hero">
             <p>Luen connects your daily habits to your cardio fitness. See exactly what moves the needle on your VO2 Max and Resting Heart Rate, all from data already in Apple Health.</p>
-        </section>
+            <div class="metrics">
+                <span class="pill"><span class="dot dot-vo2"></span>VO2 Max</span>
+                <span class="pill"><span class="dot dot-rhr"></span>Heart Rate</span>
+                <span class="pill"><span class="dot dot-workouts"></span>Workouts</span>
+                <span class="pill"><span class="dot dot-sleep"></span>Sleep</span>
+                <span class="pill"><span class="dot dot-daylight"></span>Daylight</span>
+                <span class="pill"><span class="dot dot-stress"></span>Stress</span>
+            </div>
+        </div>
+
+        <div class="divider"></div>
 
         <section id="privacy">
             <h2>Privacy Policy</h2>
-            <p><strong>Last updated:</strong> February 1, 2026</p>
+            <span class="date-badge">Last updated February 1, 2026</span>
 
             <h3>Overview</h3>
             <p>Luen is designed with privacy at its core. Your health data never leaves your device. We do not collect, transmit, store, or share any personal or health information.</p>
@@ -145,7 +326,7 @@
             <p>Luen is not directed at children under 13. We do not knowingly collect data from children.</p>
 
             <h3>Data Retention and Deletion</h3>
-            <p>Since all data is stored locally on your device, you have full control. Deleting the app removes all Luen data from your device. You can also revoke Health access at any time in Settings > Health > Luen.</p>
+            <p>Since all data is stored locally on your device, you have full control. Deleting the app removes all Luen data from your device. You can also revoke Health access at any time in Settings &gt; Health &gt; Luen.</p>
 
             <h3>Notifications</h3>
             <p>Luen may send local notifications for weekly recaps and milestone achievements. These are generated entirely on-device and do not involve any external push notification services. You can disable notifications in the app's settings or in iOS Settings.</p>
@@ -157,40 +338,36 @@
             <p>If you have questions about this privacy policy or your data, please contact us using the form below or email <a href="mailto:support@luen.app">support@luen.app</a>.</p>
         </section>
 
+        <div class="divider"></div>
+
         <section id="support">
             <h2>Support</h2>
             <p>Have a question, found a bug, or want to share feedback? We'd love to hear from you.</p>
 
             <div class="card">
                 <form action="https://formspree.io/f/xwvqoqww" method="POST">
-                    <div style="margin-bottom: 16px;">
-                        <label for="email" style="display: block; font-size: 14px; font-weight: 500; margin-bottom: 6px;">Your email</label>
-                        <input type="email" id="email" name="email" required
-                            style="width: 100%; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; font-family: inherit; background: inherit; color: inherit;">
+                    <div class="form-group">
+                        <label for="email" class="form-label">Your email</label>
+                        <input type="email" id="email" name="email" required class="form-input">
                     </div>
-                    <div style="margin-bottom: 16px;">
-                        <label for="subject" style="display: block; font-size: 14px; font-weight: 500; margin-bottom: 6px;">Subject</label>
-                        <select id="subject" name="subject"
-                            style="width: 100%; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; font-family: inherit; background: inherit; color: inherit;">
+                    <div class="form-group">
+                        <label for="subject" class="form-label">Subject</label>
+                        <select id="subject" name="subject" class="form-input">
                             <option>Bug report</option>
                             <option>Feature request</option>
                             <option>General question</option>
                             <option>Privacy inquiry</option>
                         </select>
                     </div>
-                    <div style="margin-bottom: 16px;">
-                        <label for="message" style="display: block; font-size: 14px; font-weight: 500; margin-bottom: 6px;">Message</label>
-                        <textarea id="message" name="message" rows="5" required
-                            style="width: 100%; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; font-family: inherit; resize: vertical; background: inherit; color: inherit;"></textarea>
+                    <div class="form-group">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
                     </div>
-                    <button type="submit"
-                        style="width: 100%; padding: 12px; background: #0066cc; color: white; border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; font-family: inherit;">
-                        Send Message
-                    </button>
+                    <button type="submit" class="btn">Send Message</button>
                 </form>
             </div>
 
-            <p style="text-align: center; font-size: 13px; color: #888; margin-top: 12px;">
+            <p class="support-note">
                 Or email us directly at <a href="mailto:support@luen.app">support@luen.app</a>
             </p>
         </section>
