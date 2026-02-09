@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary Meta Tags -->
-    <title>Support – Luen</title>
-    <meta name="description" content="Get help with Luen. Report bugs, request features, or ask questions about your VO2 Max and Heart Rate tracking app.">
+    <title>Manifesto – Luen</title>
+    <meta name="description" content="Your body already knows. Start listening. Luen makes the invisible visible — VO2 Max, Resting Heart Rate, and the four daily habits that shape your longevity.">
     <meta name="author" content="Willi Wiedergold">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#0A0A0A">
@@ -16,20 +16,20 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://luen.app/support">
-    <meta property="og:title" content="Support – Luen">
-    <meta property="og:description" content="Get help with Luen. Report bugs, request features, or ask questions.">
+    <meta property="og:url" content="https://luen.app/why">
+    <meta property="og:title" content="Manifesto – Luen">
+    <meta property="og:description" content="Your body already knows. Start listening. Luen makes the invisible visible.">
     <meta property="og:image" content="https://luen.app/og-image.png">
     <meta property="og:site_name" content="Luen">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Support – Luen">
-    <meta name="twitter:description" content="Get help with Luen. Report bugs, request features, or ask questions.">
+    <meta name="twitter:title" content="Manifesto – Luen">
+    <meta name="twitter:description" content="Your body already knows. Start listening. Luen makes the invisible visible.">
     <meta name="twitter:image" content="https://luen.app/og-image.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://luen.app/support">
+    <link rel="canonical" href="https://luen.app/why">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -121,99 +121,109 @@
         }
         .nav-cta:hover { opacity: 0.85; color: white !important; }
 
-        /* Content */
+        /* Manifesto Content */
         .page-content {
             padding: 64px 0 80px;
         }
-        .page-content h2 {
-            font-size: 28px;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-            margin-bottom: 24px;
-            color: var(--color-text);
-        }
-        .page-content p {
-            font-size: 15px;
-            color: var(--color-text-secondary);
-            margin-bottom: 12px;
-            line-height: 1.7;
-        }
-        .page-content a {
-            color: var(--color-accent);
-            text-decoration: none;
-        }
-        .page-content a:hover {
-            text-decoration: underline;
-        }
 
-        /* Card */
-        .card {
-            background: var(--color-surface);
-            border-radius: var(--radius-md);
-            padding: 28px;
-            margin: 24px 0;
-            box-shadow: var(--shadow-sm);
-            border: 1px solid var(--color-border);
-        }
-
-        /* Form */
-        .form-group {
-            margin-bottom: 20px;
-        }
-        .form-label {
-            display: block;
+        .page-label {
+            display: inline-block;
             font-size: 13px;
             font-weight: 600;
             color: var(--color-text-muted);
-            margin-bottom: 8px;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
+            letter-spacing: 1.5px;
+            margin-bottom: 24px;
         }
-        .form-input {
-            width: 100%;
-            padding: 14px 16px;
-            border: 1px solid var(--color-border);
-            border-radius: var(--radius-sm);
-            font-size: 15px;
-            font-family: inherit;
-            background: var(--color-bg);
-            color: var(--color-text);
-            transition: border-color 0.2s, box-shadow 0.2s;
-            -webkit-appearance: none;
-        }
-        .form-input:focus {
-            outline: none;
-            border-color: var(--color-accent);
-            box-shadow: 0 0 0 3px rgba(61, 138, 90, 0.1);
-        }
-        textarea.form-input {
-            resize: vertical;
-            min-height: 140px;
-        }
-        .btn {
-            width: 100%;
-            padding: 16px;
-            background: var(--color-text);
-            color: white;
-            border: none;
-            border-radius: var(--radius-sm);
-            font-size: 15px;
-            font-weight: 600;
-            cursor: pointer;
-            font-family: inherit;
-            transition: opacity 0.2s;
-        }
-        .btn:hover { opacity: 0.85; }
 
-        .support-note {
-            text-align: center;
-            font-size: 14px;
-            color: var(--color-text-muted);
-            margin-top: 20px;
+        .page-title {
+            font-size: clamp(32px, 6vw, 44px);
+            font-weight: 700;
+            letter-spacing: -1.5px;
+            line-height: 1.15;
+            color: var(--color-text);
+            margin-bottom: 48px;
         }
-        .support-note a {
-            color: var(--color-accent);
-            text-decoration: none;
+
+        .rule {
+            width: 40px;
+            height: 1px;
+            background: var(--color-border);
+            margin-bottom: 40px;
+        }
+
+        .body p {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.75;
+            color: var(--color-text-secondary);
+            margin-bottom: 24px;
+        }
+        .body p:last-child {
+            margin-bottom: 0;
+        }
+        .body strong {
+            font-weight: 600;
+            color: var(--color-text);
+        }
+
+        /* Section breaks */
+        .section-break {
+            margin: 40px 0;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .section-break span {
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: var(--color-text-muted);
+            white-space: nowrap;
+        }
+        .section-break::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--color-border);
+        }
+
+        /* Pull quote */
+        .pull {
+            font-size: 18px;
+            font-weight: 500;
+            font-style: italic;
+            line-height: 1.65;
+            color: var(--color-text-secondary);
+            border-left: 2px solid var(--color-border);
+            padding-left: 24px;
+            margin: 40px 0;
+        }
+
+        /* Footnote */
+        .footnote {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid var(--color-border);
+            font-size: 13px;
+            color: var(--color-text-muted);
+            line-height: 1.7;
+        }
+
+        /* Subtle entrance animations */
+        .page-content > * {
+            opacity: 0;
+            transform: translateY(12px);
+            animation: fadeIn 0.6s ease forwards;
+        }
+        .page-label { animation-delay: 0.1s; }
+        .page-title { animation-delay: 0.2s; }
+        .rule { animation-delay: 0.3s; }
+        .body { animation-delay: 0.4s; }
+
+        @keyframes fadeIn {
+            to { opacity: 1; transform: translateY(0); }
         }
 
         /* Footer */
@@ -269,35 +279,39 @@
     <main>
         <div class="container-narrow">
             <div class="page-content">
-                <h2>Support</h2>
-                <p>Have a question, found a bug, or want to share feedback? We'd love to hear from you.</p>
+                <span class="page-label">Manifesto</span>
 
-                <div class="card">
-                    <form action="https://formspree.io/f/xwvqoqww" method="POST">
-                        <div class="form-group">
-                            <label for="email" class="form-label">Your email</label>
-                            <input type="email" id="email" name="email" required class="form-input" autocomplete="email">
-                        </div>
-                        <div class="form-group">
-                            <label for="subject" class="form-label">Subject</label>
-                            <select id="subject" name="subject" class="form-input">
-                                <option>Bug report</option>
-                                <option>Feature request</option>
-                                <option>General question</option>
-                                <option>Privacy inquiry</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="message" class="form-label">Message</label>
-                            <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
-                        </div>
-                        <button type="submit" class="btn">Send Message</button>
-                    </form>
+                <h1 class="page-title">Your body already knows.<br>Start listening.</h1>
+
+                <div class="rule"></div>
+
+                <div class="body">
+                    <p>Modern life is quietly dismantling your health. You sit all day, sleep too little, rarely see sunlight, and carry stress that never resolves. None of this hurts — until it does. The cruelest thing about declining health is that you don't feel it happening. The feedback loop is broken. By the time you notice, years have passed.</p>
+
+                    <p>But your body has been keeping score the entire time.</p>
+
+                    <div class="section-break"><span>The Scorecard</span></div>
+
+                    <p><strong>VO2 Max</strong> and <strong>Resting Heart Rate</strong> are among the strongest reflections of cardiovascular fitness — which itself is among the strongest predictors of how long and how well you will live. They don't cause longevity. They reflect whether you're living in a way that produces it. Think of them as a mirror, not a medicine.</p>
+
+                    <div class="section-break"><span>The Habits</span></div>
+
+                    <p>Longevity isn't built by one heroic decision. It's built by four ordinary ones, repeated daily. <strong>Move your body.</strong> Exercise is the single highest-leverage input for cardiovascular health. <strong>Sleep well.</strong> Without recovery, nothing adapts. <strong>Get sunlight.</strong> Your biology evolved outdoors — circadian rhythm, vitamin D, blood pressure regulation, immune function all depend on it. Avoiding sunlight is a mortality risk factor comparable to smoking. <strong>Manage your stress.</strong> Chronic stress silently elevates your heart rate, suppresses recovery, drives inflammation, and degrades sleep.</p>
+
+                    <p>These four are not everything that matters. Nutrition matters. Social connection matters. But these are the four highest-leverage habits you can measure passively and consistently — and a system only works if you actually use it.</p>
+
+                    <div class="section-break"><span>The Instrument</span></div>
+
+                    <p>Luen doesn't coach you. It doesn't gamify your health. It doesn't ask you to log anything. It reads signals your body is already producing — through the watch on your wrist — and makes the invisible visible. You live your life. Luen shows you what your body thinks about it.</p>
+
+                    <div class="pull">The problem was never motivation. The problem was that you couldn't see the consequences of your choices — until now.</div>
+
+                    <p>Once you see the connection between what you do today and how your body responds tomorrow, you don't need an app to nag you. You have something better. Clarity.</p>
+
+                    <div class="footnote">
+                        Luen tracks VO2 Max, Resting Heart Rate, and HRV as output metrics, alongside four daily habits — exercise, sleep, daylight, and stress — using Apple Health data. No manual input. No accounts. Your data stays on your device.
+                    </div>
                 </div>
-
-                <p class="support-note">
-                    Or email us directly at <a href="mailto:support@luen.app">support@luen.app</a>
-                </p>
             </div>
         </div>
     </main>
