@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary Meta Tags -->
-    <title>Support – Luen</title>
-    <meta name="description" content="Get help with Luen. Report bugs, request features, or ask questions about your VO2 Max and Heart Rate tracking app.">
+    <title>Learn - Luen</title>
+    <meta name="description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness. Data tables, Apple Watch tracking, and what your numbers mean.">
     <meta name="author" content="Willi Wiedergold">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#0A0A0A">
@@ -16,20 +16,20 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://luen.app/support/">
-    <meta property="og:title" content="Support – Luen">
-    <meta property="og:description" content="Get help with Luen. Report bugs, request features, or ask questions.">
+    <meta property="og:url" content="https://luen.app/learn/">
+    <meta property="og:title" content="Learn - Luen">
+    <meta property="og:description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness.">
     <meta property="og:image" content="https://luen.app/og-image.png">
     <meta property="og:site_name" content="Luen">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Support – Luen">
-    <meta name="twitter:description" content="Get help with Luen. Report bugs, request features, or ask questions.">
+    <meta name="twitter:title" content="Learn - Luen">
+    <meta name="twitter:description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness.">
     <meta name="twitter:image" content="https://luen.app/og-image.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://luen.app/support/">
+    <link rel="canonical" href="https://luen.app/learn/">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -129,91 +129,46 @@
             font-size: 28px;
             font-weight: 700;
             letter-spacing: -0.5px;
-            margin-bottom: 24px;
+            margin-bottom: 8px;
             color: var(--color-text);
         }
-        .page-content p {
+        .page-subtitle {
             font-size: 15px;
             color: var(--color-text-secondary);
-            margin-bottom: 12px;
+            margin-bottom: 32px;
             line-height: 1.7;
         }
-        .page-content a {
-            color: var(--color-accent);
-            text-decoration: none;
-        }
-        .page-content a:hover {
-            text-decoration: underline;
-        }
 
-        /* Card */
-        .card {
+        /* Article cards */
+        .article-list {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .article-card {
+            display: block;
             background: var(--color-surface);
             border-radius: var(--radius-md);
-            padding: 28px;
-            margin: 24px 0;
+            padding: 24px 28px;
             box-shadow: var(--shadow-sm);
             border: 1px solid var(--color-border);
-        }
-
-        /* Form */
-        .form-group {
-            margin-bottom: 20px;
-        }
-        .form-label {
-            display: block;
-            font-size: 13px;
-            font-weight: 600;
-            color: var(--color-text-muted);
-            margin-bottom: 8px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        .form-input {
-            width: 100%;
-            padding: 14px 16px;
-            border: 1px solid var(--color-border);
-            border-radius: var(--radius-sm);
-            font-size: 15px;
-            font-family: inherit;
-            background: var(--color-bg);
-            color: var(--color-text);
-            transition: border-color 0.2s, box-shadow 0.2s;
-            -webkit-appearance: none;
-        }
-        .form-input:focus {
-            outline: none;
-            border-color: var(--color-accent);
-            box-shadow: 0 0 0 3px rgba(61, 138, 90, 0.1);
-        }
-        textarea.form-input {
-            resize: vertical;
-            min-height: 140px;
-        }
-        .btn {
-            width: 100%;
-            padding: 16px;
-            background: var(--color-text);
-            color: white;
-            border: none;
-            border-radius: var(--radius-sm);
-            font-size: 15px;
-            font-weight: 600;
-            cursor: pointer;
-            font-family: inherit;
-            transition: opacity 0.2s;
-        }
-        .btn:hover { opacity: 0.85; }
-
-        .support-note {
-            text-align: center;
-            font-size: 14px;
-            color: var(--color-text-muted);
-            margin-top: 20px;
-        }
-        .support-note a {
-            color: var(--color-accent);
             text-decoration: none;
+            transition: box-shadow 0.2s, border-color 0.2s;
+        }
+        .article-card:hover {
+            box-shadow: var(--shadow-md);
+            border-color: var(--color-accent-light);
+        }
+        .article-card h3 {
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 6px;
+        }
+        .article-card p {
+            font-size: 14px;
+            color: var(--color-text-secondary);
+            line-height: 1.6;
         }
 
         /* Footer */
@@ -268,35 +223,20 @@
     <main>
         <div class="container-narrow">
             <div class="page-content">
-                <h2>Support</h2>
-                <p>Have a question, found a bug, or want to share feedback? We'd love to hear from you.</p>
+                <h2>Learn</h2>
+                <p class="page-subtitle">Reference guides on cardiovascular fitness, what your numbers mean, and how to improve them.</p>
 
-                <div class="card">
-                    <form action="https://formspree.io/f/xwvqoqww" method="POST">
-                        <div class="form-group">
-                            <label for="email" class="form-label">Your email</label>
-                            <input type="email" id="email" name="email" required class="form-input" autocomplete="email">
-                        </div>
-                        <div class="form-group">
-                            <label for="subject" class="form-label">Subject</label>
-                            <select id="subject" name="subject" class="form-input">
-                                <option>Bug report</option>
-                                <option>Feature request</option>
-                                <option>General question</option>
-                                <option>Privacy inquiry</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="message" class="form-label">Message</label>
-                            <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
-                        </div>
-                        <button type="submit" class="btn">Send Message</button>
-                    </form>
+                <div class="article-list">
+                    <a href="/learn/vo2-max-by-age-and-gender/" class="article-card">
+                        <h3>VO2 Max by Age and Gender</h3>
+                        <p>Percentile charts for men and women, what Apple Watch measures, and how to improve your score.</p>
+                    </a>
+
+                    <a href="/learn/resting-heart-rate-by-age/" class="article-card">
+                        <h3>Resting Heart Rate by Age</h3>
+                        <p>Normal ranges by age and fitness level, what affects your RHR, and why athletes trend lower.</p>
+                    </a>
                 </div>
-
-                <p class="support-note">
-                    Or email us directly at <a href="mailto:support@luen.app">support@luen.app</a>
-                </p>
             </div>
         </div>
     </main>
