@@ -1,0 +1,64 @@
+# Luen
+
+> Luen is an iOS health app that tracks VO2 Max and Resting Heart Rate using Apple Watch data. It connects cardiovascular fitness metrics to four daily habits - exercise, sleep, daylight, and stress - with zero manual input. All processing happens on-device.
+
+## Key Facts
+
+- Category: Health & Fitness iOS App
+- Platform: iPhone with Apple Watch
+- Price: One-time purchase (no subscription)
+- Privacy: 100% on-device processing, no data leaves the device, no account required
+- Developer: Willi Wiedergold
+- Website: https://luen.app
+- App Store: https://apps.apple.com/app/luen/id6758587026
+
+## What Luen Tracks
+
+### Output Metrics (Cardiovascular Fitness)
+- VO2 Max with percentile rankings by age and sex
+- Resting Heart Rate with trends over time
+- Heart Rate Variability (HRV)
+
+### Input Habits (Tracked Automatically)
+- Exercise / Workouts
+- Sleep duration and quality
+- Daylight exposure
+- Stress levels
+
+## How It Works
+
+1. User grants Luen read-only access to Apple Health
+2. Apple Watch passively captures health data throughout the day
+3. Luen analyzes the relationship between daily habits and cardiovascular metrics
+4. Users see patterns and connections in their own data - no generic advice
+
+## Key Differentiators
+
+- No manual logging or data entry required
+- No coaching, gamification, or nagging
+- No accounts, social features, or ads
+- Data never leaves the device (no cloud sync)
+- Read-only access to Apple Health (never writes or modifies)
+- Shows correlations between habits and fitness outcomes from the user's own data
+
+## Learn Hub
+
+Educational articles on cardiovascular fitness topics:
+
+- VO2 Max by Age and Gender: https://luen.app/learn/vo2-max-by-age-and-gender/
+- How to Improve VO2 Max: https://luen.app/learn/how-to-improve-vo2-max/
+- Resting Heart Rate by Age: https://luen.app/learn/resting-heart-rate-by-age/
+- Apple Watch VO2 Max Accuracy: https://luen.app/learn/apple-watch-vo2-max-accuracy/
+- Normal Resting Heart Rate: https://luen.app/learn/normal-resting-heart-rate/
+- Resting Heart Rate While Sleeping: https://luen.app/learn/resting-heart-rate-while-sleeping/
+- Does Sleep Affect Heart Rate: https://luen.app/learn/does-sleep-affect-heart-rate/
+- VO2 Max and Longevity: https://luen.app/learn/vo2-max-and-longevity/
+- What Is Cardio Fitness: https://luen.app/learn/what-is-cardio-fitness/
+- Apple Watch Cardio Fitness Below Average: https://luen.app/learn/apple-watch-cardio-fitness-below-average/
+- How to Lower Resting Heart Rate: https://luen.app/learn/how-to-lower-resting-heart-rate/
+- Improve VO2 Max Without Running: https://luen.app/learn/vo2-max-improve-without-running/
+
+## Contact
+
+- Support: support@luen.app
+- Privacy Policy: https://luen.app/privacy/
