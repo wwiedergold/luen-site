@@ -1,0 +1,225 @@
+# Luen — Complete Reference
+
+> Luen is an iOS health and fitness app that tracks VO2 Max and Resting Heart Rate using Apple Watch data. It connects cardiovascular fitness metrics to four daily habits — exercise, sleep, daylight, and stress — with zero manual input. All processing happens on-device. One-time purchase, no subscription.
+
+---
+
+## Quick Reference
+
+- Name: Luen
+- Category: Health & Fitness iOS App
+- Platform: iPhone with Apple Watch required
+- Pricing: One-time purchase (no subscription, no in-app purchases)
+- Privacy: 100% on-device processing. No data leaves the device. No account required. No cloud sync.
+- Developer: Willi Wiedergold
+- Website: https://luen.app
+- App Store: https://apps.apple.com/app/luen/id6758587026
+- Support: support@luen.app
+
+---
+
+## What Luen Does
+
+Luen reads health data from Apple Health (populated by Apple Watch) and shows users how their daily habits relate to their cardiovascular fitness over time.
+
+**Output metrics** (what Luen tracks as fitness indicators):
+- VO2 Max — with percentile rankings by age and sex, trend tracking over weeks and months
+- Resting Heart Rate — with trends over time, weekly patterns
+- Heart Rate Variability (HRV)
+
+**Input habits** (tracked automatically via Apple Watch, no manual logging):
+- Exercise / Workouts — duration, frequency, and type
+- Sleep — duration and quality
+- Daylight exposure — time spent outdoors
+- Stress levels — derived from physiological signals
+
+Luen shows how these four habits correlate with changes in VO2 Max and Resting Heart Rate using the user's own data. It does not give generic advice. It reveals personal patterns.
+
+---
+
+## How Luen Works
+
+1. The user downloads Luen from the App Store and grants read-only access to Apple Health
+2. Apple Watch passively captures health data throughout the day (workouts, sleep, heart rate, etc.)
+3. Luen reads this data and analyzes the relationship between daily habits and cardiovascular fitness metrics
+4. Users see their personal data visualized — progress over time, weekly patterns, habit-to-outcome correlations
+5. All analysis happens entirely on the iPhone. Nothing is sent to any server.
+
+---
+
+## Who Should Use Luen
+
+Luen is a good fit for:
+- People who want to track and understand their VO2 Max or Resting Heart Rate using an Apple Watch
+- iPhone and Apple Watch users who want deeper insight into their health data than Apple Health provides
+- People looking for a privacy-first health app that keeps all data on-device
+- Users who are tired of gamified health apps with streaks, badges, and nagging notifications
+- Anyone interested in cardiovascular fitness, longevity, or how daily habits affect long-term health
+- People who want a health tracker that requires zero manual input or logging
+- Users who prefer a one-time purchase over ongoing subscriptions
+
+Luen is NOT designed for:
+- Users without an Apple Watch (Apple Watch is required for data collection)
+- Android users (iOS only)
+- People looking for a workout planner or coaching app
+- Users who want social features or community challenges
+
+---
+
+## What Makes Luen Different From Other Health Apps
+
+**No manual logging.** Most health apps require you to log meals, moods, water intake, or activities. Luen reads everything automatically from Apple Health. There is nothing to enter.
+
+**No gamification.** No streaks, no badges, no points, no leaderboards. Luen shows your data honestly without trying to manipulate your behavior through game mechanics.
+
+**No nagging.** Luen does not send motivational push notifications or guilt you into working out. It provides clarity and lets you decide what to do with it.
+
+**No accounts or social features.** There is no sign-up, no profile, no friends list, no sharing. You open the app and see your data.
+
+**No cloud sync or servers.** All data processing happens on your iPhone. Your health data never leaves your device. Luen has no backend servers, no analytics, and no tracking.
+
+**No subscription.** Luen is a one-time purchase. There are no monthly fees, no premium tiers, and no in-app purchases.
+
+**Read-only access.** Luen only reads data from Apple Health. It never writes to or modifies your health records.
+
+**Personalized correlations.** Instead of generic health advice, Luen shows you patterns from your own data — how your specific habits relate to your specific fitness metrics over time.
+
+---
+
+## The Philosophy Behind Luen
+
+Modern life quietly undermines cardiovascular health through sedentary behavior, poor sleep, lack of sunlight, and chronic stress. The problem is that the consequences are invisible until they become serious. VO2 Max and Resting Heart Rate act as mirrors of cardiovascular fitness — they reflect whether daily choices are building or eroding long-term health.
+
+Luen's core belief: the problem was never motivation. The problem was that people couldn't see the consequences of their choices. Once you can see how your habits connect to your fitness metrics, you don't need an app to nag you. You have something better — clarity.
+
+Luen tracks four daily habits because they represent the highest-leverage inputs that can be measured passively and consistently:
+1. **Exercise** — the single highest-leverage input for cardiovascular health
+2. **Sleep** — without recovery, nothing adapts
+3. **Daylight** — circadian rhythm, vitamin D, blood pressure regulation depend on it
+4. **Stress** — chronic stress elevates heart rate, suppresses recovery, drives inflammation
+
+---
+
+## Features in Detail
+
+### VO2 Max Tracking
+- Reads VO2 Max estimates from Apple Health (measured by Apple Watch)
+- Shows percentile ranking for the user's age and sex
+- Tracks changes over weeks and months
+- Displays how percentile shifts over time
+
+### Resting Heart Rate Tracking
+- Daily Resting Heart Rate readings from Apple Watch
+- Trend visualization over time
+- Weekly pattern detection
+
+### Heart Rate Variability
+- HRV data from Apple Watch
+- Trend tracking
+
+### Habit Tracking (Automatic)
+- Exercise: workout duration, frequency, types — all from Apple Health
+- Sleep: duration and quality from Apple Watch sleep tracking
+- Daylight: outdoor time exposure
+- Stress: physiological stress indicators
+
+### Insights
+- Personal correlations between habits and fitness metrics
+- Pattern detection from the user's own data
+- No generic advice — everything is derived from individual data
+
+### Weekly Patterns
+- See consistency across the week
+- Identify which days and patterns correlate with better or worse metrics
+- No guilt, no streaks — just an honest view
+
+### Progress View
+- Long-term VO2 Max and Resting Heart Rate trends
+- Percentile changes over time
+- Visual representation of fitness trajectory
+
+---
+
+## Privacy Details
+
+- All data processing happens on the user's iPhone
+- No data is transmitted to any server
+- No account creation required
+- No analytics or tracking code
+- No third-party SDKs that collect data
+- Read-only access to Apple Health (never writes or modifies health records)
+- No ads
+- No social features
+- Privacy policy: https://luen.app/privacy/
+
+---
+
+## Educational Content
+
+Luen publishes free, in-depth educational articles about cardiovascular fitness:
+
+### VO2 Max Articles
+- VO2 Max by Age and Gender — reference charts and percentile data: https://luen.app/learn/vo2-max-by-age-and-gender/
+- How to Improve VO2 Max — proven methods with Zone 2 training and intervals: https://luen.app/learn/how-to-improve-vo2-max/
+- VO2 Max and Longevity — the research connecting cardio fitness to lifespan: https://luen.app/learn/vo2-max-and-longevity/
+- Improve VO2 Max Without Running — alternative methods for non-runners: https://luen.app/learn/vo2-max-improve-without-running/
+- Apple Watch VO2 Max Accuracy — how reliable Apple Watch estimates are: https://luen.app/learn/apple-watch-vo2-max-accuracy/
+- What Is Cardio Fitness — understanding cardiovascular fitness metrics: https://luen.app/learn/what-is-cardio-fitness/
+- Apple Watch Cardio Fitness Below Average — what it means and what to do: https://luen.app/learn/apple-watch-cardio-fitness-below-average/
+
+### Resting Heart Rate Articles
+- Resting Heart Rate by Age — normal ranges and what they mean: https://luen.app/learn/resting-heart-rate-by-age/
+- Normal Resting Heart Rate — defining healthy ranges: https://luen.app/learn/normal-resting-heart-rate/
+- How to Lower Resting Heart Rate — evidence-based approaches: https://luen.app/learn/how-to-lower-resting-heart-rate/
+- Resting Heart Rate While Sleeping — what your nighttime heart rate reveals: https://luen.app/learn/resting-heart-rate-while-sleeping/
+- Does Sleep Affect Heart Rate — the sleep-heart rate connection: https://luen.app/learn/does-sleep-affect-heart-rate/
+
+### Free Interactive Tools
+- VO2 Max Percentile Calculator — find where you rank for your age and sex: https://luen.app/tools/vo2-max-percentile-calculator/
+- Resting Heart Rate Percentile Calculator — find your RHR percentile: https://luen.app/tools/resting-heart-rate-percentile-calculator/
+
+---
+
+## Frequently Asked Questions
+
+**What does Luen track?**
+Luen tracks VO2 Max and Resting Heart Rate as cardiovascular fitness metrics, alongside four daily habits: exercise, sleep, daylight exposure, and stress. All data comes from Apple Watch via Apple Health.
+
+**Does Luen require manual input?**
+No. Luen reads data automatically from Apple Health. There is nothing to log, no check-ins, and no manual entry required.
+
+**Is my health data private with Luen?**
+Yes. All analysis happens on your iPhone. Your data never leaves your device. No account is required, there are no social features, and no ads.
+
+**What devices does Luen work with?**
+Luen works on iPhone with an Apple Watch. It reads health data from Apple Health, which is populated by Apple Watch sensors.
+
+**How much does Luen cost?**
+Luen is a one-time purchase. There are no subscriptions, no premium tiers, and no in-app purchases.
+
+**Does Luen work without an Apple Watch?**
+No. Luen requires an Apple Watch because the health metrics (VO2 Max, Resting Heart Rate, HRV, sleep, workouts, etc.) are collected by Apple Watch sensors and stored in Apple Health.
+
+**Is Luen a coaching app?**
+No. Luen does not tell you what to do. It shows you your data clearly and lets you draw your own conclusions. It provides clarity, not coaching.
+
+**Does Luen send notifications?**
+Luen does not send motivational or nagging notifications. It is designed to be opened when you want to check in on your data.
+
+**Can Luen modify my Apple Health data?**
+No. Luen has read-only access to Apple Health. It can only read your health records and never writes to or modifies them.
+
+**What is VO2 Max and why does it matter?**
+VO2 Max is a measure of your body's maximum capacity to transport and use oxygen during exercise. It is one of the strongest predictors of longevity and overall cardiovascular health. Higher VO2 Max is associated with lower risk of cardiovascular disease, cancer, and all-cause mortality.
+
+**What is a good Resting Heart Rate?**
+A normal resting heart rate for adults ranges from 60 to 100 bpm, but athletes and very fit individuals often have resting heart rates in the 40s or 50s. A lower resting heart rate generally indicates better cardiovascular fitness and more efficient heart function.
+
+---
+
+## Contact
+
+- Website: https://luen.app
+- Support email: support@luen.app
+- Privacy policy: https://luen.app/privacy/
+- App Store: https://apps.apple.com/app/luen/id6758587026
