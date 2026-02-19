@@ -1,0 +1,49 @@
+/* Learn hub page */
+.page-content {
+    padding: 64px 0 80px;
+}
+.page-content h1 {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+    color: var(--color-text);
+}
+.page-subtitle {
+    font-size: 15px;
+    color: var(--color-text-secondary);
+    margin-bottom: 32px;
+    line-height: 1.7;
+}
+
+/* Article cards */
+.article-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.article-card {
+    display: block;
+    background: var(--color-surface);
+    border-radius: var(--radius-md);
+    padding: 24px 28px;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    transition: box-shadow 0.2s, border-color 0.2s;
+}
+.article-card:hover {
+    box-shadow: var(--shadow-md);
+    border-color: var(--color-accent-light);
+}
+.article-card h3 {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 6px;
+}
+.article-card p {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+}

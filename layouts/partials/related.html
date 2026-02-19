@@ -1,0 +1,8 @@
+{{ with .Params.related }}
+<div class="related">
+    <h3>Related</h3>
+    {{ range . }}
+    <a href="{{ .url }}">{{ .title }}</a>
+    {{ end }}
+</div>
+{{ end }}

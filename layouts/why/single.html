@@ -1,0 +1,21 @@
+{{ define "styles" }}
+{{ $whyCSS := resources.Get "css/why.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $whyCSS.RelPermalink }}">
+{{ end }}
+
+{{ define "structured-data" }}
+{{ partial "json-ld/article.html" . }}
+{{ end }}
+
+{{ define "main" }}
+    <div class="container-narrow">
+        <div class="page-content">
+            <span class="page-label">Manifesto</span>
+            <h1 class="page-title">{{ .Title }}</h1>
+            <div class="rule"></div>
+            <div class="body">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+{{ end }}

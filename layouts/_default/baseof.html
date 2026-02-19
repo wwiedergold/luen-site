@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang | default "en" }}">
+<head>
+    {{ partial "head.html" . }}
+    {{ block "structured-data" . }}{{ end }}
+    {{ block "styles" . }}{{ end }}
+</head>
+<body>
+    {{ partial "header.html" . }}
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    <script>
+        const header = document.querySelector('header');
+        window.addEventListener('scroll', () => {
+            header.classList.toggle('scrolled', window.scrollY > 10);
+        });
+    </script>
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>

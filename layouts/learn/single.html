@@ -1,0 +1,33 @@
+{{ define "styles" }}
+{{ $articleCSS := resources.Get "css/article.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $articleCSS.RelPermalink }}">
+{{ end }}
+
+{{ define "structured-data" }}
+{{ partial "json-ld/article.html" . }}
+{{ partial "json-ld/faq.html" . }}
+{{ partial "json-ld/breadcrumb.html" . }}
+{{ end }}
+
+{{ define "main" }}
+    <div class="container-narrow">
+        {{ partial "breadcrumb.html" . }}
+
+        <div class="article-header">
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.subtitle }}<p class="article-subtitle">{{ . }}</p>{{ end }}
+        </div>
+
+        <div class="rule"></div>
+
+        <div class="article-body">
+            {{ .Content }}
+
+            {{ partial "cta-box.html" . }}
+
+            {{ partial "faq.html" . }}
+        </div>
+
+        {{ partial "related.html" . }}
+    </div>
+{{ end }}

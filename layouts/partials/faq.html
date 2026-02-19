@@ -1,0 +1,11 @@
+{{ with .Params.faq }}
+<div class="faq">
+    <h2>Frequently Asked Questions</h2>
+    {{ range . }}
+    <div class="faq-item">
+        <h3>{{ .question }}</h3>
+        <p>{{ .answer }}</p>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
