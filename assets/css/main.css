@@ -88,6 +88,19 @@ nav a:hover { color: var(--color-text); }
     transition: opacity 0.2s;
 }
 .nav-cta:hover { opacity: 0.85; color: white !important; }
+.lang-switch {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+}
+.lang-switch a {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.lang-switch a:hover { color: var(--color-text); }
+.lang-switch strong { color: var(--color-text); }
+.lang-sep { margin: 0 2px; }
 
 /* Divider */
 .divider {

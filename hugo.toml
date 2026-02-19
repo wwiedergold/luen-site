@@ -1,6 +1,7 @@
 baseURL = "https://luen.app"
 languageCode = "en"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 title = "Luen - VO2 Max & Heart Rate Mirror"
 
 # Disable unused features
@@ -17,50 +18,6 @@ disableHugoGeneratorInject = true
   changefreq = "monthly"
   priority = 0.5
 
-# Menu: Header navigation
-[[menus.main]]
-  name = "Features"
-  url = "/#features"
-  weight = 1
-[[menus.main]]
-  name = "Why"
-  url = "/why/"
-  weight = 2
-[[menus.main]]
-  name = "Learn"
-  url = "/learn/"
-  weight = 3
-
-# Menu: Footer navigation
-[[menus.footer]]
-  name = "Why"
-  url = "/why/"
-  weight = 1
-[[menus.footer]]
-  name = "Learn"
-  url = "/learn/"
-  weight = 2
-[[menus.footer]]
-  name = "Tools"
-  url = "/tools/resting-heart-rate-percentile-calculator/"
-  weight = 3
-[[menus.footer]]
-  name = "Contact"
-  url = "mailto:support@luen.app"
-  weight = 4
-[[menus.footer]]
-  name = "Privacy"
-  url = "/privacy/"
-  weight = 5
-[[menus.footer]]
-  name = "Imprint"
-  url = "/imprint/"
-  weight = 6
-[[menus.footer]]
-  name = "Support"
-  url = "/support/"
-  weight = 7
-
 # Site params
 [params]
   description = "Your body is keeping score. Luen reads your Apple Watch data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging. No manual input. You live your life. Luen shows you what your body thinks about it."
@@ -69,8 +26,101 @@ disableHugoGeneratorInject = true
   appID = "6758587026"
   ogImage = "/og-image.png"
 
-# i18n readiness
+# Languages
 [languages]
   [languages.en]
     languageName = "English"
     weight = 1
+    title = "Luen - VO2 Max & Heart Rate Mirror"
+
+    [[languages.en.menus.main]]
+      name = "Features"
+      url = "/#features"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "Why"
+      url = "/why/"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "Learn"
+      url = "/learn/"
+      weight = 3
+
+    [[languages.en.menus.footer]]
+      name = "Why"
+      url = "/why/"
+      weight = 1
+    [[languages.en.menus.footer]]
+      name = "Learn"
+      url = "/learn/"
+      weight = 2
+    [[languages.en.menus.footer]]
+      name = "Tools"
+      url = "/tools/resting-heart-rate-percentile-calculator/"
+      weight = 3
+    [[languages.en.menus.footer]]
+      name = "Contact"
+      url = "mailto:support@luen.app"
+      weight = 4
+    [[languages.en.menus.footer]]
+      name = "Privacy"
+      url = "/privacy/"
+      weight = 5
+    [[languages.en.menus.footer]]
+      name = "Imprint"
+      url = "/imprint/"
+      weight = 6
+    [[languages.en.menus.footer]]
+      name = "Support"
+      url = "/support/"
+      weight = 7
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
+    title = "Luen - VO2 Max & Herzfrequenz-Spiegel"
+
+    [languages.de.params]
+      description = "Dein Körper führt Buch. Luen liest deine Apple-Watch-Daten und verbindet deine VO2 Max und Ruheherzfrequenz mit vier täglichen Gewohnheiten. Kein Protokollieren. Keine manuelle Eingabe. Du lebst dein Leben. Luen zeigt dir, was dein Körper darüber denkt."
+
+    [[languages.de.menus.main]]
+      name = "Funktionen"
+      url = "/de/#features"
+      weight = 1
+    [[languages.de.menus.main]]
+      name = "Warum"
+      url = "/de/why/"
+      weight = 2
+    [[languages.de.menus.main]]
+      name = "Lernen"
+      url = "/de/learn/"
+      weight = 3
+
+    [[languages.de.menus.footer]]
+      name = "Warum"
+      url = "/de/why/"
+      weight = 1
+    [[languages.de.menus.footer]]
+      name = "Lernen"
+      url = "/de/learn/"
+      weight = 2
+    [[languages.de.menus.footer]]
+      name = "Tools"
+      url = "/de/tools/resting-heart-rate-percentile-calculator/"
+      weight = 3
+    [[languages.de.menus.footer]]
+      name = "Kontakt"
+      url = "mailto:support@luen.app"
+      weight = 4
+    [[languages.de.menus.footer]]
+      name = "Datenschutz"
+      url = "/de/privacy/"
+      weight = 5
+    [[languages.de.menus.footer]]
+      name = "Impressum"
+      url = "/de/imprint/"
+      weight = 6
+    [[languages.de.menus.footer]]
+      name = "Support"
+      url = "/de/support/"
+      weight = 7

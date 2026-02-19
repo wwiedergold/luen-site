@@ -1,12 +1,25 @@
 <header>
     <div class="container">
         <div class="header-inner">
-            <a href="/" class="logo">luen</a>
+            <a href="{{ site.Home.RelPermalink }}" class="logo">luen</a>
             <nav>
                 {{- range site.Menus.main }}
                 <a href="{{ .URL }}">{{ .Name }}</a>
                 {{- end }}
-                <a href="{{ site.Params.appStoreURL }}" class="nav-cta">Download</a>
+                <a href="{{ site.Params.appStoreURL }}" class="nav-cta">{{ i18n "download" }}</a>
+                {{- $translations := .Translations }}
+                {{- if $translations }}
+                <span class="lang-switch">
+                    {{- if eq .Lang "en" }}<strong>EN</strong>{{ else }}<a href="{{ (index $translations 0).RelPermalink }}">EN</a>{{ end }}
+                    <span class="lang-sep">/</span>
+                    {{- if eq .Lang "de" }}<strong>DE</strong>{{ else }}<a href="{{ (index $translations 0).RelPermalink }}">DE</a>{{ end }}
+                </span>
+                {{- else }}
+                <span class="lang-switch">
+                    {{- if eq .Lang "en" }}<strong>EN</strong><span class="lang-sep">/</span><a href="{{ "de/" | absURL }}">DE</a>
+                    {{- else }}<a href="{{ site.BaseURL }}">EN</a><span class="lang-sep">/</span><strong>DE</strong>{{ end }}
+                </span>
+                {{- end }}
             </nav>
         </div>
     </div>

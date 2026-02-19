@@ -1,8 +1,8 @@
 {{ with .Params.related }}
 <div class="related">
-    <h3>Related</h3>
+    <h3>{{ i18n "related_heading" }}</h3>
     {{ range . }}
-    <a href="{{ .url }}">{{ .title }}</a>
+    <a href="{{ .url | relLangURL }}">{{ .title }}</a>
     {{ end }}
 </div>
 {{ end }}

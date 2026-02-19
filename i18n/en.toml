@@ -1,0 +1,269 @@
+# Navigation
+[download]
+other = "Download"
+
+[download_for_ios]
+other = "Download for iOS"
+
+# Breadcrumb
+[home]
+other = "Home"
+
+# Common headings
+[faq_heading]
+other = "Frequently Asked Questions"
+
+[related_heading]
+other = "Related"
+
+# CTA box
+[cta_title]
+other = "Track your VO2 Max and Resting Heart Rate with Luen."
+
+[cta_description]
+other = "See how your daily habits connect to your cardiovascular fitness. No logging. No subscriptions. Just clarity."
+
+# Footer
+[copyright]
+other = "All rights reserved."
+
+# Why page
+[manifesto]
+other = "Manifesto"
+
+# Home page: Hero
+[hero_badge]
+other = "Works with Apple Health"
+
+[hero_title_1]
+other = "Your body is"
+
+[hero_title_2]
+other = "keeping score."
+
+[hero_subtitle]
+other = "You just can't see it - yet. Luen reads your Apple Watch data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging. No manual input. You live your life. Luen shows you what your body thinks about it."
+
+[read_why]
+other = "Read why we built Luen →"
+
+[pill_rhr]
+other = "Resting Heart Rate"
+
+[pill_workouts]
+other = "Workouts"
+
+[pill_sleep]
+other = "Sleep"
+
+[pill_daylight]
+other = "Daylight"
+
+[pill_stress]
+other = "Stress"
+
+# Home page: Screenshots alt text
+[alt_progress]
+other = "Luen Progress tab showing VO2 Max and Heart Rate trends"
+
+[alt_today]
+other = "Luen Today tab showing daily health habits"
+
+[alt_insights]
+other = "Luen Insights tab showing personalized fitness recommendations"
+
+# Home page: Features
+[features_label]
+other = "Features"
+
+[features_title]
+other = "What you'll see"
+
+[features_subtitle]
+other = "A clear, honest picture of your cardiovascular fitness - and the habits that shape it."
+
+[feature_vo2_title]
+other = "VO2 Max & Resting Heart Rate"
+
+[feature_vo2_desc]
+other = "Your two key cardiovascular metrics, tracked over time with percentile rankings for your age and sex."
+
+[feature_habits_title]
+other = "4 Habits, Zero Logging"
+
+[feature_habits_desc]
+other = "Exercise, sleep, daylight, and stress - all tracked automatically from your Apple Watch. Nothing to log. Nothing to enter."
+
+[feature_data_title]
+other = "Your Data, Shown Honestly"
+
+[feature_data_desc]
+other = "Luen shows you how your habits and metrics relate - patterns from your own data, not generic advice."
+
+[feature_weekly_title]
+other = "Weekly Patterns"
+
+[feature_weekly_desc]
+other = "See your consistency across the week. No streaks. No guilt. Just an honest view of what happened."
+
+[feature_privacy_title]
+other = "100% Private"
+
+[feature_privacy_desc]
+other = "All analysis happens on your iPhone - your data never leaves your device. No account required. No social features. No ads."
+
+[feature_percentile_title]
+other = "Percentile Changes"
+
+[feature_percentile_desc]
+other = "Track where you stand relative to your age group and watch how your percentile shifts over time."
+
+# Home page: How It Works
+[how_label]
+other = "How It Works"
+
+[how_title_1]
+other = "Simple setup,"
+
+[how_title_2]
+other = "clear picture"
+
+[step1_title]
+other = "Connect Apple Health"
+
+[step1_desc]
+other = "Grant Luen permission to read your health data. We only read - never write or modify your data."
+
+[step2_title]
+other = "Live Your Life"
+
+[step2_desc]
+other = "Your Apple Watch captures your workouts, sleep, daylight, and stress automatically. No check-ins needed."
+
+[step3_title]
+other = "See What's Happening"
+
+[step3_desc]
+other = "Luen shows you how your habits and metrics connect - patterns that were always there but invisible until now."
+
+# Home page: Stats
+[stat_metrics]
+other = "Health metrics tracked"
+
+[stat_data]
+other = "Data sent to servers"
+
+[stat_processing]
+other = "On-device processing"
+
+# Home page: CTA section
+[cta_heading]
+other = "Clarity, not motivation."
+
+[cta_desc_1]
+other = "Luen doesn't coach you. It doesn't gamify your health. It doesn't nag. It gives you something more durable than motivation: clarity."
+
+[cta_desc_2]
+other = "One-time purchase. No subscriptions. Ever."
+
+# Support section / page
+[support_heading]
+other = "Support"
+
+[support_intro]
+other = "Have a question, found a bug, or want to share feedback? We'd love to hear from you."
+
+[form_email]
+other = "Your email"
+
+[form_subject]
+other = "Subject"
+
+[form_message]
+other = "Message"
+
+[form_bug]
+other = "Bug report"
+
+[form_feature]
+other = "Feature request"
+
+[form_question]
+other = "General question"
+
+[form_privacy]
+other = "Privacy inquiry"
+
+[form_submit]
+other = "Send Message"
+
+[support_note]
+other = "Or email us directly at"
+
+# Home page: JSON-LD
+[jsonld_app_desc]
+other = "Luen is an iOS app that tracks VO2 Max and Resting Heart Rate using Apple Health data from your Apple Watch. It connects your cardiovascular fitness metrics to four daily habits - exercise, sleep, daylight, and stress - with zero manual input. All data stays on your device."
+
+[jsonld_org_desc]
+other = "Luen is an iOS health app that makes cardiovascular fitness visible by tracking VO2 Max and Resting Heart Rate alongside four daily habits using Apple Watch data."
+
+[jsonld_faq1_q]
+other = "What does Luen track?"
+
+[jsonld_faq1_a]
+other = "Luen tracks VO2 Max and Resting Heart Rate as cardiovascular fitness metrics, alongside four daily habits: exercise, sleep, daylight exposure, and stress. All data comes from your Apple Watch via Apple Health."
+
+[jsonld_faq2_q]
+other = "Does Luen require manual input?"
+
+[jsonld_faq2_a]
+other = "No. Luen reads data automatically from Apple Health. There is nothing to log, no check-ins, and no manual entry required. You live your life and Luen shows you what your body thinks about it."
+
+[jsonld_faq3_q]
+other = "Is my health data private with Luen?"
+
+[jsonld_faq3_a]
+other = "Yes. All analysis happens on your iPhone. Your data never leaves your device. No account is required, there are no social features, and no ads. Luen only reads Apple Health data and never writes or modifies it."
+
+[jsonld_faq4_q]
+other = "What devices does Luen work with?"
+
+[jsonld_faq4_a]
+other = "Luen works on iPhone with an Apple Watch. It reads health data from Apple Health, which is populated by your Apple Watch sensors. No other wearables are currently supported."
+
+[jsonld_faq5_q]
+other = "What is the best app to track VO2 Max on Apple Watch?"
+
+[jsonld_faq5_a]
+other = "Luen is an iOS app designed specifically for tracking VO2 Max using Apple Watch data. It shows your VO2 Max with percentile rankings by age and sex, tracks changes over time, and connects your fitness metrics to four daily habits (exercise, sleep, daylight, stress) — all with zero manual input and 100% on-device privacy."
+
+[jsonld_faq6_q]
+other = "Is there a privacy-focused health app for iPhone?"
+
+[jsonld_faq6_a]
+other = "Luen is a privacy-first health app where all data processing happens entirely on your iPhone. No data is ever sent to servers, no account is required, there are no analytics or tracking, and the app only has read-only access to Apple Health. It is a one-time purchase with no subscription."
+
+[jsonld_faq7_q]
+other = "How much does Luen cost?"
+
+[jsonld_faq7_a]
+other = "Luen is a one-time purchase from the App Store. There are no subscriptions, no monthly fees, no premium tiers, and no in-app purchases."
+
+[jsonld_faq8_q]
+other = "How does Luen connect daily habits to cardiovascular fitness?"
+
+[jsonld_faq8_a]
+other = "Luen reads your Apple Watch data and analyzes how four daily habits — exercise, sleep, daylight exposure, and stress — correlate with your VO2 Max and Resting Heart Rate over time. It shows patterns from your own personal data rather than generic advice, helping you see which habits have the most impact on your cardiovascular fitness."
+
+# Calculator CTA
+[calc_cta_vo2]
+other = "Track how your VO2 Max changes over time."
+
+[calc_cta_vo2_desc]
+other = "Luen shows your trend alongside your exercise, sleep, and stress patterns so you can see what actually moves the number."
+
+[calc_cta_rhr]
+other = "Track how your resting heart rate changes over time."
+
+[calc_cta_rhr_desc]
+other = "Luen shows your RHR trend alongside your exercise, sleep, and stress patterns."
