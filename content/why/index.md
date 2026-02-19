@@ -1,7 +1,8 @@
 ---
-title: "Your body already knows.\nStart listening."
+title: "Your body already knows. Start listening."
 description: "Your body already knows. Start listening. Luen makes the invisible visible - VO2 Max, Resting Heart Rate, and the four daily habits that shape your longevity."
 ogTitle: "Manifesto – Luen"
+type: "why"
 date: 2026-02-09
 lastmod: 2026-02-15
 ---

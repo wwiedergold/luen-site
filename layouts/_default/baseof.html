@@ -2,6 +2,7 @@
 <html lang="{{ .Lang | default "en" }}">
 <head>
     {{ partial "head.html" . }}
+    {{ block "structured-data" . }}{{ end }}
     {{ block "styles" . }}{{ end }}
 </head>
 <body>
