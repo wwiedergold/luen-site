@@ -1,0 +1,22 @@
+{{ define "styles" }}
+{{ $hubCSS := resources.Get "css/learn-hub.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $hubCSS.RelPermalink }}">
+{{ end }}
+
+{{ define "main" }}
+    <div class="container-narrow">
+        <div class="page-content">
+            <h2>{{ .Title }}</h2>
+            <p class="page-subtitle">{{ .Description }}</p>
+
+            <div class="article-list">
+                {{- range .Params.articles }}
+                <a href="{{ .url }}" class="article-card">
+                    <h3>{{ .title }}</h3>
+                    <p>{{ .description }}</p>
+                </a>
+                {{- end }}
+            </div>
+        </div>
+    </div>
+{{ end }}

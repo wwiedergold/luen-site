@@ -1,0 +1,76 @@
+baseURL = "https://luen.app"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Luen - VO2 Max & Heart Rate Mirror"
+
+# Disable unused features
+disableKinds = ["taxonomy", "term"]
+buildFuture = true
+disableHugoGeneratorInject = true
+
+# Allow raw HTML in Markdown files
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Sitemap defaults
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+# Menu: Header navigation
+[[menus.main]]
+  name = "Features"
+  url = "#features"
+  weight = 1
+[[menus.main]]
+  name = "Why"
+  url = "/why/"
+  weight = 2
+[[menus.main]]
+  name = "Learn"
+  url = "/learn/"
+  weight = 3
+
+# Menu: Footer navigation
+[[menus.footer]]
+  name = "Why"
+  url = "/why/"
+  weight = 1
+[[menus.footer]]
+  name = "Learn"
+  url = "/learn/"
+  weight = 2
+[[menus.footer]]
+  name = "Tools"
+  url = "/tools/resting-heart-rate-percentile-calculator/"
+  weight = 3
+[[menus.footer]]
+  name = "Contact"
+  url = "mailto:support@luen.app"
+  weight = 4
+[[menus.footer]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 5
+[[menus.footer]]
+  name = "Imprint"
+  url = "/imprint/"
+  weight = 6
+[[menus.footer]]
+  name = "Support"
+  url = "/support/"
+  weight = 7
+
+# Site params
+[params]
+  description = "Your body is keeping score. Luen reads your Apple Watch data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging. No manual input. You live your life. Luen shows you what your body thinks about it."
+  author = "Willi Wiedergold"
+  appStoreURL = "https://apps.apple.com/app/luen/id6758587026"
+  appID = "6758587026"
+  ogImage = "/og-image.png"
+
+# i18n readiness
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1

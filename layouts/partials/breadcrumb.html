@@ -1,0 +1,3 @@
+<nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a>{{ if .Parent }}<span>›</span>{{ if .Parent.Parent }}<a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a><span>›</span>{{ end }}{{ end }}{{ .Title }}
+</nav>

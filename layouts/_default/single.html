@@ -1,0 +1,31 @@
+{{ define "styles" }}
+{{ $infoCSS := resources.Get "css/info-page.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $infoCSS.RelPermalink }}">
+{{ end }}
+
+{{ define "structured-data" }}
+{{ with .Params.jsonLdType }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "{{ . }}",
+    "name": "{{ $.Title }} - Luen",
+    "description": "{{ $.Description }}",
+    "url": "{{ $.Permalink }}",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Luen",
+        "url": "{{ site.BaseURL }}"
+    }
+}
+</script>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+    <div class="container-narrow">
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+    </div>
+{{ end }}
