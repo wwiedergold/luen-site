@@ -20,7 +20,7 @@ disableHugoGeneratorInject = true
 # Menu: Header navigation
 [[menus.main]]
   name = "Features"
-  url = "#features"
+  url = "/#features"
   weight = 1
 [[menus.main]]
   name = "Why"
