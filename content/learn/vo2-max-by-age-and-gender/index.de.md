@@ -10,7 +10,7 @@ sitemap:
   changefreq: monthly
 faq:
   - question: "Was ist eine gute VO2 Max für mein Alter?"
-    answer: "Das hängt von deinem Alter und Geschlecht ab. Nutze die obigen Tabellen, um deinen Bereich zu finden. Als grobe Orientierung: „Gut" für einen 40-jährigen Mann liegt bei 43,8–48,0 ml/kg/min, und für eine 40-jährige Frau bei 32,9–36,9 ml/kg/min. Alles im Bereich „Überdurchschnittlich" oder höher bringt dich in eine starke Position für die langfristige Gesundheit."
+    answer: "Das hängt von deinem Alter und Geschlecht ab. Nutze die obigen Tabellen, um deinen Bereich zu finden. Als grobe Orientierung: „Gut“ für einen 40-jährigen Mann liegt bei 43,8–48,0 ml/kg/min, und für eine 40-jährige Frau bei 32,9–36,9 ml/kg/min. Alles im Bereich „Überdurchschnittlich“ oder höher bringt dich in eine starke Position für die langfristige Gesundheit."
   - question: "Wie genau ist die VO2 Max der Apple Watch?"
     answer: "Die VO2 Max Schätzungen der Apple Watch liegen bei den meisten Menschen innerhalb von etwa 1 ml/kg/min des Laborergebnisses, validiert über einen Bereich von 14–65 ml/kg/min. Die Genauigkeit verbessert sich mit mehr Daten aus Spaziergängen, Läufen und Wanderungen im Freien. Sie ersetzt keinen klinischen Test, ist aber eine zuverlässige Methode, um deinen Trend im Zeitverlauf zu verfolgen."
   - question: "Kann man die VO2 Max nach 50 noch verbessern?"
