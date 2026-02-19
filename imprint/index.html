@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary Meta Tags -->
-    <title>Learn - Luen</title>
-    <meta name="description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness. Data tables, Apple Watch tracking, and what your numbers mean.">
+    <title>Impressum – Luen</title>
+    <meta name="description" content="Impressum von Luen. Angaben gemäß § 5 TMG.">
     <meta name="author" content="Willi Wiedergold">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#0A0A0A">
@@ -16,25 +16,41 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://luen.app/learn/">
-    <meta property="og:title" content="Learn - Luen">
-    <meta property="og:description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness.">
+    <meta property="og:url" content="https://luen.app/imprint/">
+    <meta property="og:title" content="Impressum – Luen">
+    <meta property="og:description" content="Impressum von Luen. Angaben gemäß § 5 TMG.">
     <meta property="og:image" content="https://luen.app/og-image.png">
     <meta property="og:site_name" content="Luen">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Learn - Luen">
-    <meta name="twitter:description" content="Reference guides on VO2 Max, Resting Heart Rate, and the science behind cardiovascular fitness.">
+    <meta name="twitter:title" content="Impressum – Luen">
+    <meta name="twitter:description" content="Impressum von Luen. Angaben gemäß § 5 TMG.">
     <meta name="twitter:image" content="https://luen.app/og-image.png">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://luen.app/learn/">
+    <link rel="canonical" href="https://luen.app/imprint/">
     <link rel="help" type="text/plain" href="https://luen.app/llms.txt" title="LLM-friendly site information">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Impressum - Luen",
+        "description": "Impressum von Luen. Angaben gemäß § 5 TMG.",
+        "url": "https://luen.app/imprint/",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Luen",
+            "url": "https://luen.app"
+        }
+    }
+    </script>
 
     <!-- Preconnect for performance -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -130,46 +146,37 @@
             font-size: 28px;
             font-weight: 700;
             letter-spacing: -0.5px;
-            margin-bottom: 8px;
+            margin-bottom: 24px;
             color: var(--color-text);
         }
-        .page-subtitle {
+        .page-content h3 {
+            font-size: 16px;
+            font-weight: 600;
+            margin: 32px 0 12px;
+            color: var(--color-text);
+        }
+        .page-content h3:first-of-type {
+            margin-top: 0;
+        }
+        .page-content p, .page-content li {
             font-size: 15px;
             color: var(--color-text-secondary);
-            margin-bottom: 32px;
+            margin-bottom: 12px;
             line-height: 1.7;
         }
-
-        /* Article cards */
-        .article-list {
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
+        .page-content ul {
+            padding-left: 20px;
+            margin-bottom: 12px;
         }
-        .article-card {
-            display: block;
-            background: var(--color-surface);
-            border-radius: var(--radius-md);
-            padding: 24px 28px;
-            box-shadow: var(--shadow-sm);
-            border: 1px solid var(--color-border);
-            text-decoration: none;
-            transition: box-shadow 0.2s, border-color 0.2s;
-        }
-        .article-card:hover {
-            box-shadow: var(--shadow-md);
-            border-color: var(--color-accent-light);
-        }
-        .article-card h3 {
-            font-size: 17px;
-            font-weight: 600;
-            color: var(--color-text);
+        .page-content li {
             margin-bottom: 6px;
         }
-        .article-card p {
-            font-size: 14px;
-            color: var(--color-text-secondary);
-            line-height: 1.6;
+        .page-content a {
+            color: var(--color-accent);
+            text-decoration: none;
+        }
+        .page-content a:hover {
+            text-decoration: underline;
         }
 
         /* Footer */
@@ -224,80 +231,40 @@
     <main>
         <div class="container-narrow">
             <div class="page-content">
-                <h2>Learn</h2>
-                <p class="page-subtitle">Reference guides on cardiovascular fitness, what your numbers mean, and how to improve them.</p>
+                <h2>Impressum</h2>
 
-                <div class="article-list">
-                    <a href="/learn/vo2-max-by-age-and-gender/" class="article-card">
-                        <h3>VO2 Max by Age and Gender</h3>
-                        <p>Percentile charts for men and women, what Apple Watch measures, and how to improve your score.</p>
-                    </a>
+                <h3>Angaben gemäß § 5 TMG</h3>
+                <p>
+                    Willi Wiedergold<br>
+                    Astrid-Lindgren-Straße 10<br>
+                    53844 Troisdorf<br>
+                    Deutschland
+                </p>
 
-                    <a href="/tools/vo2-max-percentile-calculator/" class="article-card">
-                        <h3>VO2 Max Percentile Calculator</h3>
-                        <p>Enter your age, sex, and VO2 Max to see how your cardio fitness compares to others your age.</p>
-                    </a>
+                <h3>Kontakt</h3>
+                <p>
+                    E-Mail: <a href="mailto:willi@luen.app">willi@luen.app</a>
+                </p>
 
-                    <a href="/learn/resting-heart-rate-by-age/" class="article-card">
-                        <h3>Resting Heart Rate by Age</h3>
-                        <p>Normal ranges by age and fitness level, what affects your RHR, and why athletes trend lower.</p>
-                    </a>
+                <h3>Umsatzsteuer-ID</h3>
+                <p>
+                    Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:<br>
+                    DE346097782
+                </p>
 
-                    <a href="/tools/resting-heart-rate-percentile-calculator/" class="article-card">
-                        <h3>Resting Heart Rate Percentile Calculator</h3>
-                        <p>Enter your age, sex, and resting heart rate to see how your cardiovascular fitness compares to others.</p>
-                    </a>
+                <h3>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h3>
+                <p>
+                    Willi Wiedergold<br>
+                    Astrid-Lindgren-Straße 10<br>
+                    53844 Troisdorf
+                </p>
 
-                    <a href="/learn/how-to-improve-vo2-max/" class="article-card">
-                        <h3>How to Improve Your VO2 Max</h3>
-                        <p>The training methods, timelines, and daily habits that drive real cardio fitness gains.</p>
-                    </a>
-
-                    <a href="/learn/apple-watch-vo2-max-accuracy/" class="article-card">
-                        <h3>Apple Watch VO2 Max Accuracy</h3>
-                        <p>What the research says, how it compares to lab tests and Garmin, and why your reading might be off.</p>
-                    </a>
-
-                    <a href="/learn/what-is-cardio-fitness/" class="article-card">
-                        <h3>What Is Cardio Fitness?</h3>
-                        <p>What it measures, why it matters for longevity, and how to check your level on Apple Watch.</p>
-                    </a>
-
-                    <a href="/learn/normal-resting-heart-rate/" class="article-card">
-                        <h3>What Is a Normal Resting Heart Rate?</h3>
-                        <p>The healthy range, what affects your number, how to measure it, and when to be concerned.</p>
-                    </a>
-
-                    <a href="/learn/how-to-lower-resting-heart-rate/" class="article-card">
-                        <h3>How to Lower Your Resting Heart Rate</h3>
-                        <p>The most effective methods, realistic timelines, and the daily habits that make the biggest difference.</p>
-                    </a>
-
-                    <a href="/learn/resting-heart-rate-while-sleeping/" class="article-card">
-                        <h3>Resting Heart Rate While Sleeping</h3>
-                        <p>How sleeping heart rate differs from daytime resting rate, what is normal by age, and what disrupts it.</p>
-                    </a>
-
-                    <a href="/learn/vo2-max-and-longevity/" class="article-card">
-                        <h3>VO2 Max and Longevity</h3>
-                        <p>The research behind cardio fitness and mortality, and why it predicts how long you live.</p>
-                    </a>
-
-                    <a href="/learn/apple-watch-cardio-fitness-below-average/" class="article-card">
-                        <h3>Apple Watch Cardio Fitness Below Average</h3>
-                        <p>Why your reading might be wrong, what it means if accurate, and exactly how to improve it.</p>
-                    </a>
-
-                    <a href="/learn/does-sleep-affect-heart-rate/" class="article-card">
-                        <h3>How Sleep Affects Your Heart Rate</h3>
-                        <p>The direct connection between sleep quality, resting heart rate, and cardiovascular fitness.</p>
-                    </a>
-
-                    <a href="/learn/vo2-max-improve-without-running/" class="article-card">
-                        <h3>Improve VO2 Max Without Running</h3>
-                        <p>The best non-running activities for cardio fitness, ranked by effectiveness.</p>
-                    </a>
-                </div>
+                <h3>EU-Streitbeilegung</h3>
+                <p>
+                    Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
+                    <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener">https://ec.europa.eu/consumers/odr/</a>.
+                </p>
+                <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
             </div>
         </div>
     </main>
