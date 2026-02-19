@@ -1,0 +1,269 @@
+# Navigation
+[download]
+other = "Laden"
+
+[download_for_ios]
+other = "Für iOS laden"
+
+# Breadcrumb
+[home]
+other = "Startseite"
+
+# Common headings
+[faq_heading]
+other = "Häufig gestellte Fragen"
+
+[related_heading]
+other = "Verwandte Artikel"
+
+# CTA box
+[cta_title]
+other = "Verfolge deine VO2 Max und Ruheherzfrequenz mit Luen."
+
+[cta_description]
+other = "Sieh, wie deine täglichen Gewohnheiten mit deiner kardiovaskulären Fitness zusammenhängen. Kein Protokollieren. Keine Abonnements. Nur Klarheit."
+
+# Footer
+[copyright]
+other = "Alle Rechte vorbehalten."
+
+# Why page
+[manifesto]
+other = "Manifest"
+
+# Home page: Hero
+[hero_badge]
+other = "Funktioniert mit Apple Health"
+
+[hero_title_1]
+other = "Dein Körper"
+
+[hero_title_2]
+other = "führt Buch."
+
+[hero_subtitle]
+other = "Du siehst es nur noch nicht. Luen liest deine Apple-Watch-Daten und verbindet deine VO2 Max und Ruheherzfrequenz mit vier täglichen Gewohnheiten. Kein Protokollieren. Keine manuelle Eingabe. Du lebst dein Leben. Luen zeigt dir, was dein Körper darüber denkt."
+
+[read_why]
+other = "Lies, warum wir Luen entwickelt haben →"
+
+[pill_rhr]
+other = "Ruheherzfrequenz"
+
+[pill_workouts]
+other = "Training"
+
+[pill_sleep]
+other = "Schlaf"
+
+[pill_daylight]
+other = "Tageslicht"
+
+[pill_stress]
+other = "Stress"
+
+# Home page: Screenshots alt text
+[alt_progress]
+other = "Luen Fortschritt-Tab mit VO2 Max und Herzfrequenz-Trends"
+
+[alt_today]
+other = "Luen Heute-Tab mit täglichen Gesundheitsgewohnheiten"
+
+[alt_insights]
+other = "Luen Erkenntnisse-Tab mit personalisierten Fitness-Empfehlungen"
+
+# Home page: Features
+[features_label]
+other = "Funktionen"
+
+[features_title]
+other = "Was du sehen wirst"
+
+[features_subtitle]
+other = "Ein klares, ehrliches Bild deiner kardiovaskulären Fitness – und der Gewohnheiten, die sie formen."
+
+[feature_vo2_title]
+other = "VO2 Max & Ruheherzfrequenz"
+
+[feature_vo2_desc]
+other = "Deine zwei wichtigsten kardiovaskulären Kennzahlen, im Zeitverlauf verfolgt mit Perzentil-Rankings für dein Alter und Geschlecht."
+
+[feature_habits_title]
+other = "4 Gewohnheiten, null Aufwand"
+
+[feature_habits_desc]
+other = "Bewegung, Schlaf, Tageslicht und Stress – alles automatisch von deiner Apple Watch erfasst. Nichts eintragen. Nichts eingeben."
+
+[feature_data_title]
+other = "Deine Daten, ehrlich gezeigt"
+
+[feature_data_desc]
+other = "Luen zeigt dir, wie deine Gewohnheiten und Kennzahlen zusammenhängen – Muster aus deinen eigenen Daten, keine allgemeinen Ratschläge."
+
+[feature_weekly_title]
+other = "Wochenmuster"
+
+[feature_weekly_desc]
+other = "Sieh deine Beständigkeit über die Woche. Keine Streaks. Kein schlechtes Gewissen. Nur ein ehrlicher Blick auf das, was passiert ist."
+
+[feature_privacy_title]
+other = "100 % Privat"
+
+[feature_privacy_desc]
+other = "Alle Analysen finden auf deinem iPhone statt – deine Daten verlassen nie dein Gerät. Kein Konto erforderlich. Keine sozialen Funktionen. Keine Werbung."
+
+[feature_percentile_title]
+other = "Perzentil-Veränderungen"
+
+[feature_percentile_desc]
+other = "Verfolge, wo du im Vergleich zu deiner Altersgruppe stehst, und beobachte, wie sich dein Perzentil im Laufe der Zeit verändert."
+
+# Home page: How It Works
+[how_label]
+other = "So funktioniert's"
+
+[how_title_1]
+other = "Einfache Einrichtung,"
+
+[how_title_2]
+other = "klares Bild"
+
+[step1_title]
+other = "Apple Health verbinden"
+
+[step1_desc]
+other = "Erteile Luen die Berechtigung, deine Gesundheitsdaten zu lesen. Wir lesen nur – schreiben oder verändern deine Daten nie."
+
+[step2_title]
+other = "Leb dein Leben"
+
+[step2_desc]
+other = "Deine Apple Watch erfasst dein Training, deinen Schlaf, Tageslicht und Stress automatisch. Kein Einchecken nötig."
+
+[step3_title]
+other = "Sieh, was passiert"
+
+[step3_desc]
+other = "Luen zeigt dir, wie deine Gewohnheiten und Kennzahlen zusammenhängen – Muster, die immer da waren, aber bisher unsichtbar."
+
+# Home page: Stats
+[stat_metrics]
+other = "Gesundheits-Metriken erfasst"
+
+[stat_data]
+other = "Daten an Server gesendet"
+
+[stat_processing]
+other = "Verarbeitung auf dem Gerät"
+
+# Home page: CTA section
+[cta_heading]
+other = "Klarheit, nicht Motivation."
+
+[cta_desc_1]
+other = "Luen coacht dich nicht. Es gamifiziert deine Gesundheit nicht. Es nervt nicht. Es gibt dir etwas Beständigeres als Motivation: Klarheit."
+
+[cta_desc_2]
+other = "Einmalkauf. Keine Abonnements. Nie."
+
+# Support section / page
+[support_heading]
+other = "Support"
+
+[support_intro]
+other = "Hast du eine Frage, einen Fehler gefunden oder möchtest Feedback geben? Wir freuen uns, von dir zu hören."
+
+[form_email]
+other = "Deine E-Mail"
+
+[form_subject]
+other = "Betreff"
+
+[form_message]
+other = "Nachricht"
+
+[form_bug]
+other = "Fehlerbericht"
+
+[form_feature]
+other = "Funktionswunsch"
+
+[form_question]
+other = "Allgemeine Frage"
+
+[form_privacy]
+other = "Datenschutzanfrage"
+
+[form_submit]
+other = "Nachricht senden"
+
+[support_note]
+other = "Oder schreib uns direkt an"
+
+# Home page: JSON-LD
+[jsonld_app_desc]
+other = "Luen ist eine iOS-App, die VO2 Max und Ruheherzfrequenz mithilfe von Apple-Health-Daten deiner Apple Watch verfolgt. Sie verbindet deine kardiovaskulären Fitness-Kennzahlen mit vier täglichen Gewohnheiten – Bewegung, Schlaf, Tageslicht und Stress – ganz ohne manuelle Eingabe. Alle Daten bleiben auf deinem Gerät."
+
+[jsonld_org_desc]
+other = "Luen ist eine iOS-Gesundheits-App, die kardiovaskuläre Fitness sichtbar macht, indem sie VO2 Max und Ruheherzfrequenz zusammen mit vier täglichen Gewohnheiten mithilfe von Apple-Watch-Daten verfolgt."
+
+[jsonld_faq1_q]
+other = "Was verfolgt Luen?"
+
+[jsonld_faq1_a]
+other = "Luen verfolgt VO2 Max und Ruheherzfrequenz als kardiovaskuläre Fitness-Kennzahlen sowie vier tägliche Gewohnheiten: Bewegung, Schlaf, Tageslichtexposition und Stress. Alle Daten stammen von deiner Apple Watch über Apple Health."
+
+[jsonld_faq2_q]
+other = "Erfordert Luen manuelle Eingaben?"
+
+[jsonld_faq2_a]
+other = "Nein. Luen liest Daten automatisch aus Apple Health. Es gibt nichts zu protokollieren, kein Einchecken und keine manuelle Eingabe. Du lebst dein Leben und Luen zeigt dir, was dein Körper darüber denkt."
+
+[jsonld_faq3_q]
+other = "Sind meine Gesundheitsdaten bei Luen privat?"
+
+[jsonld_faq3_a]
+other = "Ja. Alle Analysen finden auf deinem iPhone statt. Deine Daten verlassen nie dein Gerät. Kein Konto erforderlich, keine sozialen Funktionen und keine Werbung. Luen liest nur Apple-Health-Daten und schreibt oder verändert sie nie."
+
+[jsonld_faq4_q]
+other = "Mit welchen Geräten funktioniert Luen?"
+
+[jsonld_faq4_a]
+other = "Luen funktioniert auf dem iPhone mit einer Apple Watch. Es liest Gesundheitsdaten aus Apple Health, die von den Sensoren deiner Apple Watch erfasst werden. Andere Wearables werden derzeit nicht unterstützt."
+
+[jsonld_faq5_q]
+other = "Was ist die beste App, um VO2 Max auf der Apple Watch zu verfolgen?"
+
+[jsonld_faq5_a]
+other = "Luen ist eine iOS-App, die speziell für die Verfolgung der VO2 Max mithilfe von Apple-Watch-Daten entwickelt wurde. Sie zeigt deine VO2 Max mit Perzentil-Rankings nach Alter und Geschlecht, verfolgt Veränderungen im Zeitverlauf und verbindet deine Fitness-Kennzahlen mit vier täglichen Gewohnheiten (Bewegung, Schlaf, Tageslicht, Stress) – alles ohne manuelle Eingabe und mit 100 % Datenschutz auf dem Gerät."
+
+[jsonld_faq6_q]
+other = "Gibt es eine datenschutzfreundliche Gesundheits-App für das iPhone?"
+
+[jsonld_faq6_a]
+other = "Luen ist eine datenschutzorientierte Gesundheits-App, bei der die gesamte Datenverarbeitung auf deinem iPhone stattfindet. Es werden nie Daten an Server gesendet, kein Konto ist erforderlich, es gibt keine Analysen oder Tracking, und die App hat nur Lesezugriff auf Apple Health. Es ist ein Einmalkauf ohne Abonnement."
+
+[jsonld_faq7_q]
+other = "Was kostet Luen?"
+
+[jsonld_faq7_a]
+other = "Luen ist ein Einmalkauf im App Store. Es gibt keine Abonnements, keine monatlichen Gebühren, keine Premium-Stufen und keine In-App-Käufe."
+
+[jsonld_faq8_q]
+other = "Wie verbindet Luen tägliche Gewohnheiten mit kardiovaskulärer Fitness?"
+
+[jsonld_faq8_a]
+other = "Luen liest deine Apple-Watch-Daten und analysiert, wie vier tägliche Gewohnheiten – Bewegung, Schlaf, Tageslichtexposition und Stress – mit deiner VO2 Max und Ruheherzfrequenz im Zeitverlauf korrelieren. Es zeigt Muster aus deinen persönlichen Daten statt allgemeiner Ratschläge und hilft dir zu erkennen, welche Gewohnheiten den größten Einfluss auf deine kardiovaskuläre Fitness haben."
+
+# Calculator CTA
+[calc_cta_vo2]
+other = "Verfolge, wie sich deine VO2 Max im Zeitverlauf verändert."
+
+[calc_cta_vo2_desc]
+other = "Luen zeigt deinen Trend zusammen mit deinen Bewegungs-, Schlaf- und Stressmustern, damit du siehst, was die Zahl wirklich bewegt."
+
+[calc_cta_rhr]
+other = "Verfolge, wie sich deine Ruheherzfrequenz im Zeitverlauf verändert."
+
+[calc_cta_rhr_desc]
+other = "Luen zeigt deinen RHF-Trend zusammen mit deinen Bewegungs-, Schlaf- und Stressmustern."

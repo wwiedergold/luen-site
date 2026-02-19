@@ -11,7 +11,7 @@
 
             <div class="article-list">
                 {{- range .Params.articles }}
-                <a href="{{ .url }}" class="article-card">
+                <a href="{{ .url | relLangURL }}" class="article-card">
                     <h3>{{ .title }}</h3>
                     <p>{{ .description }}</p>
                 </a>

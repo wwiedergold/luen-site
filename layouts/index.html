@@ -12,7 +12,7 @@
     "name": "Luen",
     "operatingSystem": "iOS",
     "applicationCategory": "HealthApplication",
-    "description": "Luen is an iOS app that tracks VO2 Max and Resting Heart Rate using Apple Health data from your Apple Watch. It connects your cardiovascular fitness metrics to four daily habits - exercise, sleep, daylight, and stress - with zero manual input. All data stays on your device.",
+    "description": "{{ i18n "jsonld_app_desc" }}",
     "offers": {
         "@type": "Offer",
         "price": "0",
@@ -35,7 +35,7 @@
     "name": "Luen",
     "url": "{{ site.BaseURL }}",
     "logo": "{{ site.BaseURL }}apple-touch-icon.png",
-    "description": "Luen is an iOS health app that makes cardiovascular fitness visible by tracking VO2 Max and Resting Heart Rate alongside four daily habits using Apple Watch data.",
+    "description": "{{ i18n "jsonld_org_desc" }}",
     "sameAs": [
         "{{ site.Params.appStoreURL }}"
     ],
@@ -55,66 +55,66 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What does Luen track?",
+            "name": "{{ i18n "jsonld_faq1_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen tracks VO2 Max and Resting Heart Rate as cardiovascular fitness metrics, alongside four daily habits: exercise, sleep, daylight exposure, and stress. All data comes from your Apple Watch via Apple Health."
+                "text": "{{ i18n "jsonld_faq1_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "Does Luen require manual input?",
+            "name": "{{ i18n "jsonld_faq2_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No. Luen reads data automatically from Apple Health. There is nothing to log, no check-ins, and no manual entry required. You live your life and Luen shows you what your body thinks about it."
+                "text": "{{ i18n "jsonld_faq2_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "Is my health data private with Luen?",
+            "name": "{{ i18n "jsonld_faq3_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes. All analysis happens on your iPhone. Your data never leaves your device. No account is required, there are no social features, and no ads. Luen only reads Apple Health data and never writes or modifies it."
+                "text": "{{ i18n "jsonld_faq3_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "What devices does Luen work with?",
+            "name": "{{ i18n "jsonld_faq4_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen works on iPhone with an Apple Watch. It reads health data from Apple Health, which is populated by your Apple Watch sensors. No other wearables are currently supported."
+                "text": "{{ i18n "jsonld_faq4_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "What is the best app to track VO2 Max on Apple Watch?",
+            "name": "{{ i18n "jsonld_faq5_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen is an iOS app designed specifically for tracking VO2 Max using Apple Watch data. It shows your VO2 Max with percentile rankings by age and sex, tracks changes over time, and connects your fitness metrics to four daily habits (exercise, sleep, daylight, stress) — all with zero manual input and 100% on-device privacy."
+                "text": "{{ i18n "jsonld_faq5_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "Is there a privacy-focused health app for iPhone?",
+            "name": "{{ i18n "jsonld_faq6_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen is a privacy-first health app where all data processing happens entirely on your iPhone. No data is ever sent to servers, no account is required, there are no analytics or tracking, and the app only has read-only access to Apple Health. It is a one-time purchase with no subscription."
+                "text": "{{ i18n "jsonld_faq6_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "How much does Luen cost?",
+            "name": "{{ i18n "jsonld_faq7_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen is a one-time purchase from the App Store. There are no subscriptions, no monthly fees, no premium tiers, and no in-app purchases."
+                "text": "{{ i18n "jsonld_faq7_a" }}"
             }
         },
         {
             "@type": "Question",
-            "name": "How does Luen connect daily habits to cardiovascular fitness?",
+            "name": "{{ i18n "jsonld_faq8_q" }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Luen reads your Apple Watch data and analyzes how four daily habits — exercise, sleep, daylight exposure, and stress — correlate with your VO2 Max and Resting Heart Rate over time. It shows patterns from your own personal data rather than generic advice, helping you see which habits have the most impact on your cardiovascular fitness."
+                "text": "{{ i18n "jsonld_faq8_a" }}"
             }
         }
     ]
@@ -128,32 +128,32 @@
         <div class="container">
             <div class="hero-badge">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
-                Works with Apple Health
+                {{ i18n "hero_badge" }}
             </div>
-            <h1>Your body is<br><span>keeping score.</span></h1>
-            <p class="hero-subtitle">You just can't see it - yet. Luen reads your Apple Watch data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging. No manual input. You live your life. Luen shows you what your body thinks about it.</p>
+            <h1>{{ i18n "hero_title_1" }}<br><span>{{ i18n "hero_title_2" }}</span></h1>
+            <p class="hero-subtitle">{{ i18n "hero_subtitle" }}</p>
             <a href="{{ site.Params.appStoreURL }}" class="hero-cta">
                 <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
-                Download for iOS
+                {{ i18n "download_for_ios" }}
             </a>
-            <p style="margin-top: 16px; font-size: 14px;"><a href="/why/" style="color: var(--color-text-secondary); text-decoration: none; transition: color 0.2s;">Read why we built Luen →</a></p>
+            <p style="margin-top: 16px; font-size: 14px;"><a href="{{ "why/" | relLangURL }}" style="color: var(--color-text-secondary); text-decoration: none; transition: color 0.2s;">{{ i18n "read_why" }}</a></p>
             <div class="metrics" role="list" aria-label="Tracked health metrics">
                 <span class="pill" role="listitem"><span class="dot dot-vo2" aria-hidden="true"></span>VO2 Max</span>
-                <span class="pill" role="listitem"><span class="dot dot-rhr" aria-hidden="true"></span>Resting Heart Rate</span>
-                <span class="pill" role="listitem"><span class="dot dot-workouts" aria-hidden="true"></span>Workouts</span>
-                <span class="pill" role="listitem"><span class="dot dot-sleep" aria-hidden="true"></span>Sleep</span>
-                <span class="pill" role="listitem"><span class="dot dot-daylight" aria-hidden="true"></span>Daylight</span>
-                <span class="pill" role="listitem"><span class="dot dot-stress" aria-hidden="true"></span>Stress</span>
+                <span class="pill" role="listitem"><span class="dot dot-rhr" aria-hidden="true"></span>{{ i18n "pill_rhr" }}</span>
+                <span class="pill" role="listitem"><span class="dot dot-workouts" aria-hidden="true"></span>{{ i18n "pill_workouts" }}</span>
+                <span class="pill" role="listitem"><span class="dot dot-sleep" aria-hidden="true"></span>{{ i18n "pill_sleep" }}</span>
+                <span class="pill" role="listitem"><span class="dot dot-daylight" aria-hidden="true"></span>{{ i18n "pill_daylight" }}</span>
+                <span class="pill" role="listitem"><span class="dot dot-stress" aria-hidden="true"></span>{{ i18n "pill_stress" }}</span>
             </div>
             <div class="screenshots" aria-hidden="true">
                 <div class="screenshot">
-                    <img src="/screenshots/progress.png" alt="Luen Progress tab showing VO2 Max and Heart Rate trends" width="1001" height="2088" loading="lazy">
+                    <img src="/screenshots/progress.png" alt="{{ i18n "alt_progress" }}" width="1001" height="2088" loading="lazy">
                 </div>
                 <div class="screenshot">
-                    <img src="/screenshots/today.png" alt="Luen Today tab showing daily health habits" width="1001" height="2088" loading="lazy">
+                    <img src="/screenshots/today.png" alt="{{ i18n "alt_today" }}" width="1001" height="2088" loading="lazy">
                 </div>
                 <div class="screenshot">
-                    <img src="/screenshots/insights.png" alt="Luen Insights tab showing personalized fitness recommendations" width="1001" height="2088" loading="lazy">
+                    <img src="/screenshots/insights.png" alt="{{ i18n "alt_insights" }}" width="1001" height="2088" loading="lazy">
                 </div>
             </div>
         </div>
@@ -163,9 +163,9 @@
     <section class="features" id="features" aria-labelledby="features-title">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Features</span>
-                <h2 class="section-title" id="features-title">What you'll see</h2>
-                <p class="section-subtitle">A clear, honest picture of your cardiovascular fitness - and the habits that shape it.</p>
+                <span class="section-label">{{ i18n "features_label" }}</span>
+                <h2 class="section-title" id="features-title">{{ i18n "features_title" }}</h2>
+                <p class="section-subtitle">{{ i18n "features_subtitle" }}</p>
             </div>
             <div class="features-grid">
                 <article class="feature-card">
@@ -174,8 +174,8 @@
                             <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
                         </svg>
                     </div>
-                    <h3>VO2 Max & Resting Heart Rate</h3>
-                    <p>Your two key cardiovascular metrics, tracked over time with percentile rankings for your age and sex.</p>
+                    <h3>{{ i18n "feature_vo2_title" }}</h3>
+                    <p>{{ i18n "feature_vo2_desc" }}</p>
                 </article>
                 <article class="feature-card">
                     <div class="feature-icon rhr" aria-hidden="true">
@@ -184,8 +184,8 @@
                             <path d="M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/>
                         </svg>
                     </div>
-                    <h3>4 Habits, Zero Logging</h3>
-                    <p>Exercise, sleep, daylight, and stress - all tracked automatically from your Apple Watch. Nothing to log. Nothing to enter.</p>
+                    <h3>{{ i18n "feature_habits_title" }}</h3>
+                    <p>{{ i18n "feature_habits_desc" }}</p>
                 </article>
                 <article class="feature-card">
                     <div class="feature-icon insights" aria-hidden="true">
@@ -195,8 +195,8 @@
                             <path d="M10 22h4"/>
                         </svg>
                     </div>
-                    <h3>Your Data, Shown Honestly</h3>
-                    <p>Luen shows you how your habits and metrics relate - patterns from your own data, not generic advice.</p>
+                    <h3>{{ i18n "feature_data_title" }}</h3>
+                    <p>{{ i18n "feature_data_desc" }}</p>
                 </article>
                 <article class="feature-card">
                     <div class="feature-icon habits" aria-hidden="true">
@@ -205,8 +205,8 @@
                             <path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>
                         </svg>
                     </div>
-                    <h3>Weekly Patterns</h3>
-                    <p>See your consistency across the week. No streaks. No guilt. Just an honest view of what happened.</p>
+                    <h3>{{ i18n "feature_weekly_title" }}</h3>
+                    <p>{{ i18n "feature_weekly_desc" }}</p>
                 </article>
                 <article class="feature-card">
                     <div class="feature-icon privacy" aria-hidden="true">
@@ -215,8 +215,8 @@
                             <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
                         </svg>
                     </div>
-                    <h3>100% Private</h3>
-                    <p>All analysis happens on your iPhone - your data never leaves your device. No account required. No social features. No ads.</p>
+                    <h3>{{ i18n "feature_privacy_title" }}</h3>
+                    <p>{{ i18n "feature_privacy_desc" }}</p>
                 </article>
                 <article class="feature-card">
                     <div class="feature-icon progress" aria-hidden="true">
@@ -224,8 +224,8 @@
                             <path d="M3 3v18h18"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/>
                         </svg>
                     </div>
-                    <h3>Percentile Changes</h3>
-                    <p>Track where you stand relative to your age group and watch how your percentile shifts over time.</p>
+                    <h3>{{ i18n "feature_percentile_title" }}</h3>
+                    <p>{{ i18n "feature_percentile_desc" }}</p>
                 </article>
             </div>
         </div>
@@ -235,24 +235,24 @@
     <section class="how-it-works" aria-labelledby="how-title">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">How It Works</span>
-                <h2 class="section-title" id="how-title">Simple setup,<br>clear picture</h2>
+                <span class="section-label">{{ i18n "how_label" }}</span>
+                <h2 class="section-title" id="how-title">{{ i18n "how_title_1" }}<br>{{ i18n "how_title_2" }}</h2>
             </div>
             <div class="steps">
                 <div class="step">
                     <div class="step-number" aria-hidden="true">1</div>
-                    <h3>Connect Apple Health</h3>
-                    <p>Grant Luen permission to read your health data. We only read - never write or modify your data.</p>
+                    <h3>{{ i18n "step1_title" }}</h3>
+                    <p>{{ i18n "step1_desc" }}</p>
                 </div>
                 <div class="step">
                     <div class="step-number" aria-hidden="true">2</div>
-                    <h3>Live Your Life</h3>
-                    <p>Your Apple Watch captures your workouts, sleep, daylight, and stress automatically. No check-ins needed.</p>
+                    <h3>{{ i18n "step2_title" }}</h3>
+                    <p>{{ i18n "step2_desc" }}</p>
                 </div>
                 <div class="step">
                     <div class="step-number" aria-hidden="true">3</div>
-                    <h3>See What's Happening</h3>
-                    <p>Luen shows you how your habits and metrics connect - patterns that were always there but invisible until now.</p>
+                    <h3>{{ i18n "step3_title" }}</h3>
+                    <p>{{ i18n "step3_desc" }}</p>
                 </div>
             </div>
         </div>
@@ -264,15 +264,15 @@
             <div class="stats">
                 <div class="stat">
                     <div class="stat-value">6</div>
-                    <div class="stat-label">Health metrics tracked</div>
+                    <div class="stat-label">{{ i18n "stat_metrics" }}</div>
                 </div>
                 <div class="stat">
                     <div class="stat-value">0</div>
-                    <div class="stat-label">Data sent to servers</div>
+                    <div class="stat-label">{{ i18n "stat_data" }}</div>
                 </div>
                 <div class="stat">
                     <div class="stat-value">100%</div>
-                    <div class="stat-label">On-device processing</div>
+                    <div class="stat-label">{{ i18n "stat_processing" }}</div>
                 </div>
             </div>
         </div>
@@ -281,12 +281,12 @@
     <!-- CTA Section -->
     <section class="cta-section" aria-label="Download call to action">
         <div class="container">
-            <h2>Clarity, not motivation.</h2>
-            <p style="margin-bottom: 8px;">Luen doesn't coach you. It doesn't gamify your health. It doesn't nag. It gives you something more durable than motivation: clarity.</p>
-            <p style="font-size: 15px; color: var(--color-text-muted); margin-bottom: 32px;">One-time purchase. No subscriptions. Ever.</p>
+            <h2>{{ i18n "cta_heading" }}</h2>
+            <p style="margin-bottom: 8px;">{{ i18n "cta_desc_1" }}</p>
+            <p style="font-size: 15px; color: var(--color-text-muted); margin-bottom: 32px;">{{ i18n "cta_desc_2" }}</p>
             <a href="{{ site.Params.appStoreURL }}" class="hero-cta">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
-                Download for iOS
+                {{ i18n "download_for_ios" }}
             </a>
         </div>
     </section>
@@ -295,32 +295,32 @@
     <div class="legal-sections">
         <div class="container-narrow">
             <section id="support" aria-labelledby="support-title">
-                <h2 id="support-title">Support</h2>
-                <p>Have a question, found a bug, or want to share feedback? We'd love to hear from you.</p>
+                <h2 id="support-title">{{ i18n "support_heading" }}</h2>
+                <p>{{ i18n "support_intro" }}</p>
                 <div class="card">
                     <form action="https://formspree.io/f/xwvqoqww" method="POST">
                         <div class="form-group">
-                            <label for="email" class="form-label">Your email</label>
+                            <label for="email" class="form-label">{{ i18n "form_email" }}</label>
                             <input type="email" id="email" name="email" required class="form-input" autocomplete="email">
                         </div>
                         <div class="form-group">
-                            <label for="subject" class="form-label">Subject</label>
+                            <label for="subject" class="form-label">{{ i18n "form_subject" }}</label>
                             <select id="subject" name="subject" class="form-input">
-                                <option>Bug report</option>
-                                <option>Feature request</option>
-                                <option>General question</option>
-                                <option>Privacy inquiry</option>
+                                <option>{{ i18n "form_bug" }}</option>
+                                <option>{{ i18n "form_feature" }}</option>
+                                <option>{{ i18n "form_question" }}</option>
+                                <option>{{ i18n "form_privacy" }}</option>
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="message" class="form-label">Message</label>
+                            <label for="message" class="form-label">{{ i18n "form_message" }}</label>
                             <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
                         </div>
-                        <button type="submit" class="btn">Send Message</button>
+                        <button type="submit" class="btn">{{ i18n "form_submit" }}</button>
                     </form>
                 </div>
                 <p class="support-note">
-                    Or email us directly at <a href="mailto:support@luen.app">support@luen.app</a>
+                    {{ i18n "support_note" }} <a href="mailto:support@luen.app">support@luen.app</a>
                 </p>
             </section>
         </div>

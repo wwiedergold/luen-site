@@ -6,8 +6,8 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
-            "item": "{{ site.BaseURL }}"
+            "name": "{{ i18n "home" }}",
+            "item": "{{ site.Home.Permalink }}"
         }{{ if .Parent }},
         {
             "@type": "ListItem",
