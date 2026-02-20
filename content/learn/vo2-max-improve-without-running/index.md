@@ -1,6 +1,7 @@
 ---
 title: "Improve VO2 Max Without Running"
-description: "Cycling, swimming, rowing, and walking can all improve VO2 Max. The best alternatives to running ranked, with minimum effective doses."
+seoTitle: "How to Improve VO2 Max Without Running — 8 Alternatives Ranked | Luen"
+description: "You don't have to run to improve VO2 Max. Here are the best non-running activities ranked by effectiveness, from cycling to rowing to swimming."
 subtitle: "The best non-running activities for cardio fitness, ranked by effectiveness, with the minimum dose that works."
 date: 2026-02-20
 lastmod: 2026-02-20

@@ -1,7 +1,7 @@
 ---
 title: "Resting Heart Rate by Age"
-seoTitle: "Resting Heart Rate by Age: Normal Ranges for Men & Women"
-description: "See normal resting heart rate ranges by age for men, women, and athletes. Understand what affects your RHR and how to track it with Apple Watch."
+seoTitle: "Resting Heart Rate by Age — Normal Ranges and What Affects Yours | Luen"
+description: "Normal resting heart rate ranges by age and fitness level. What affects your RHR, why athletes trend lower, and how to track it on Apple Watch."
 subtitle: "Normal ranges for men, women, and athletes, and the habits that shape your number."
 date: 2026-02-09
 lastmod: 2026-02-15
