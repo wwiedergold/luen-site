@@ -1,7 +1,7 @@
 ---
 title: "Resting Heart Rate While Sleeping"
-seoTitle: "Resting Heart Rate While Sleeping: What's Normal by Age?"
-description: "Your sleeping heart rate is typically 10–20% lower than daytime. See normal ranges by age, what disrupts it, and when to be concerned."
+seoTitle: "Resting Heart Rate While Sleeping — Normal Ranges by Age | Luen"
+description: "What's a normal heart rate while sleeping? See ranges by age, how sleeping HR differs from daytime, and what your Apple Watch data actually means."
 subtitle: "How sleeping heart rate differs from daytime resting rate, what is normal by age, and what disrupts it."
 date: 2026-02-20
 lastmod: 2026-02-20
@@ -10,12 +10,14 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 faq:
-  - question: "Should resting heart rate be lower when sleeping?"
-    answer: "Yes. A drop of 10-20% from your daytime resting rate during sleep is normal and healthy. It shows your autonomic nervous system is functioning well and your body is entering proper recovery mode."
-  - question: "What does a high sleeping heart rate mean?"
-    answer: "A higher than usual sleeping heart rate can indicate stress, poor recovery, alcohol consumption, oncoming illness, or sleep apnea. Consistently elevated sleeping heart rate deserves attention and may warrant a conversation with your doctor."
-  - question: "Does Apple Watch measure heart rate during sleep?"
-    answer: "Yes. Apple Watch continuously monitors heart rate during sleep using its optical sensors and reports your sleeping heart rate in the Health app. You can view trends over time to spot patterns."
+  - question: "What should my heart rate be while sleeping?"
+    answer: "Most healthy adults have a sleeping heart rate between 40-60 bpm, which is typically 10-20 bpm lower than their daytime resting rate. Very fit individuals may drop into the high 30s. Heart rate usually reaches its lowest point during deep sleep in the middle of the night."
+  - question: "Why is my heart rate high while sleeping?"
+    answer: "Common causes include alcohol consumption (even moderate amounts), stress or anxiety, illness or infection, overtraining, sleep apnea, dehydration, caffeine consumed too late in the day, and sleeping in a warm room. A consistently elevated sleeping heart rate that doesn't resolve may warrant medical attention."
+  - question: "Is it normal for heart rate to drop below 50 while sleeping?"
+    answer: "Yes, for many people. Athletes and physically fit individuals commonly see sleeping heart rates in the 40s or even high 30s. This is generally a sign of good cardiovascular fitness. However, if you experience dizziness, fainting, or extreme fatigue alongside a very low heart rate, consult a doctor."
+  - question: "What does Apple Watch resting heart rate measure?"
+    answer: "Apple Watch calculates resting heart rate from the lowest sedentary readings throughout the day while you're awake — it's not the same as sleeping heart rate. It uses background measurements when the accelerometer detects you're still. Your resting heart rate value may change during the day as more measurements are collected."
 related:
   - title: "Resting Heart Rate by Age: What's Normal for You?"
     url: "/learn/resting-heart-rate-by-age/"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Cardio Fitness?"
-seoTitle: "What Is Cardio Fitness? VO2 Max Levels Explained"
-description: "Cardio fitness measures how well your body uses oxygen during exercise. Learn what VO2 Max levels mean and how to check yours on Apple Watch."
+seoTitle: "What Is Cardio Fitness on Apple Watch? Levels Explained | Luen"
+description: "What does \"cardio fitness\" mean on your iPhone and Apple Watch? Here's what the levels mean, how they're calculated, and what to do if yours is low."
 subtitle: "What it measures, why it matters for longevity, and how to check your level on Apple Watch."
 date: 2026-02-20
 lastmod: 2026-02-20
@@ -10,12 +10,12 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 faq:
-  - question: "What is a good cardio fitness score?"
-    answer: "It depends on your age and sex. Generally, a VO2 Max above the 60th percentile for your demographic is considered good. For specific numbers, see the VO2 Max by age and gender chart."
-  - question: "Is cardio fitness the same as VO2 Max?"
-    answer: "Yes. Cardio fitness is Apple's consumer-friendly term for VO2 Max. Both measure the maximum amount of oxygen your body can use during exercise, expressed in ml/kg/min."
-  - question: "Can you improve cardio fitness at any age?"
-    answer: "Yes. Research shows meaningful improvement is possible at every age through consistent aerobic exercise. Beginners see the fastest gains, but even fit individuals in their 60s and 70s can make progress with regular training."
+  - question: "What does \"cardio fitness\" mean on Apple Watch?"
+    answer: "Cardio fitness on Apple Watch is a measurement of your VO2 Max — the maximum amount of oxygen your body can use during exercise. Apple Watch estimates it during outdoor walks, runs, and hikes by analyzing your heart rate response relative to your pace. The Health app classifies your level as Low, Below Average, Above Average, or High based on your age and sex."
+  - question: "Why does my iPhone say my cardio fitness is low?"
+    answer: "A \"Low\" cardio fitness notification means your VO2 Max estimate falls in the bottom 20th percentile for your age and sex. This could reflect your actual fitness level, or it could be caused by inaccurate Health profile data, walking after intense exercise, a recent watchOS update, or environmental conditions. Verify your Health profile and do consistent outdoor workouts before drawing conclusions."
+  - question: "How can I improve my cardio fitness level on Apple Watch?"
+    answer: "The most effective approach is consistent aerobic exercise — aim for 150+ minutes per week of moderate activity like brisk walking, cycling, or swimming. Adding 1-2 interval sessions per week accelerates improvement. Most people see their cardio fitness level improve within 8-12 weeks of consistent training."
 related:
   - title: "VO2 Max by Age and Gender: Where Do You Stand?"
     url: "/learn/vo2-max-by-age-and-gender/"

@@ -1,6 +1,7 @@
 ---
 title: "Cardio Fitness Below Average on Apple Watch"
-description: "Apple Watch says cardio fitness is below average? Common reasons your reading may be wrong, what it means if accurate, and how to improve."
+seoTitle: "Apple Watch Cardio Fitness Below Average? Here's What to Do | Luen"
+description: "Your Apple Watch says your cardio fitness is below average. Here's why the reading might be wrong, what it means if it's accurate, and how to improve it."
 subtitle: "Why your reading might be wrong, what it means if it is accurate, and exactly how to improve it."
 date: 2026-02-20
 lastmod: 2026-02-20

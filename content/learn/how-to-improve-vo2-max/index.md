@@ -1,7 +1,7 @@
 ---
 title: "How to Improve Your VO2 Max"
-seoTitle: "How to Improve Your VO2 Max: What Actually Works"
-description: "Improve your VO2 Max with Zone 2 training, HIIT intervals, and daily habit changes. Realistic timelines and what your Apple Watch will show."
+seoTitle: "How to Improve Your VO2 Max — Training Plans That Work | Luen"
+description: "The training methods, realistic timelines, and daily habits that drive real VO2 Max gains. Most people improve 5-15% in 8-12 weeks."
 subtitle: "The training methods, timelines, and daily habits that drive real cardio fitness gains."
 date: 2026-02-20
 lastmod: 2026-02-20

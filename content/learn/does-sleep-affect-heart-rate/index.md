@@ -1,7 +1,7 @@
 ---
 title: "How Sleep Affects Your Heart Rate"
-seoTitle: "Does Sleep Affect Heart Rate? What Your Data Shows"
-description: "Sleep quality directly impacts your heart rate. See how sleep duration, alcohol, stress, and fitness level change your nightly heart rate patterns."
+seoTitle: "How Sleep Affects Your Heart Rate — The Science Behind the Connection | Luen"
+description: "Poor sleep raises your resting heart rate. Here's why, what the research shows, and how to see the pattern in your Apple Watch data."
 subtitle: "The direct connection between sleep quality, resting heart rate, and your ability to build cardiovascular fitness."
 date: 2026-02-20
 lastmod: 2026-02-20

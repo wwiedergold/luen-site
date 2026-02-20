@@ -1,6 +1,7 @@
 ---
 title: "Apple Watch VO2 Max Accuracy"
-description: "How accurate is Apple Watch VO2 Max? What the research shows, how it compares to lab tests and Garmin, and why readings can be wrong."
+seoTitle: "How Accurate Is Apple Watch VO2 Max? What the Research Says (2026) | Luen"
+description: "A 2024 PLOS One study tested Apple Watch VO2 Max accuracy against lab results. Here's what they found — and why the trend matters more than the number."
 subtitle: "What the research says, how it compares to lab testing and Garmin, and why your reading might be off."
 date: 2026-02-20
 lastmod: 2026-02-20
@@ -9,12 +10,12 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 faq:
-  - question: "Is Apple Watch VO2 Max accurate enough to trust?"
-    answer: "For tracking trends over weeks and months, yes. It is not precise enough for clinical diagnosis but reliably shows whether your fitness is improving, stable, or declining. The trend is more valuable than any single reading."
-  - question: "Why does my Apple Watch show below average VO2 Max when I exercise regularly?"
-    answer: "Several factors can cause this. Indoor workouts do not count toward the estimate. Cool-down walks after intense exercise can produce artificially low readings. And some medications reduce heart rate response, affecting the calculation. Try a dedicated outdoor walk when fresh for a more accurate reading."
-  - question: "Does Apple Watch measure VO2 Max during cycling or swimming?"
-    answer: "No. Apple Watch only estimates VO2 Max during outdoor walk, run, or hiking workouts. Cycling and swimming do not currently produce VO2 Max readings. If you primarily do these activities, consider an occasional outdoor walk or run for an updated estimate."
+  - question: "How accurate is Apple Watch VO2 Max compared to a lab test?"
+    answer: "A 2024 study in PLOS One found that Apple Watch underestimates VO2 Max by an average of about 6 mL/kg/min compared to laboratory testing, with a mean absolute percentage error of 13.3%. The Watch tends to underestimate more for highly fit individuals. A 2025 meta-analysis confirmed it's most accurate at rest."
+  - question: "Is Apple Watch or Garmin more accurate for VO2 Max?"
+    answer: "Both are estimates with similar margins of error. Apple Watch uses heart rate and motion data from outdoor walks, runs, and hikes. Garmin uses a similar approach but may sample from more activity types. Neither matches laboratory accuracy. The most useful comparison is trend consistency — whichever device you use consistently will give you more meaningful trend data."
+  - question: "Why does my Apple Watch VO2 Max seem wrong?"
+    answer: "Common reasons include: walking right after intense exercise (inflates heart rate relative to pace), inaccurate Health profile data (wrong weight or age), recent software update that changed the algorithm, loose Watch fit causing noisy heart rate readings, or hilly terrain. Verify your Health profile and do 20+ minute outdoor workouts on flat ground for the most reliable readings."
 related:
   - title: "VO2 Max by Age and Gender: Where Do You Stand?"
     url: "/learn/vo2-max-by-age-and-gender/"

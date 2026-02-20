@@ -1,7 +1,7 @@
 ---
 title: "VO2 Max and Longevity"
-seoTitle: "VO2 Max and Longevity: What the Research Says"
-description: "Higher VO2 Max is linked to longer lifespan. Review the key studies, risk thresholds, and how much improvement actually matters."
+seoTitle: "VO2 Max and Longevity — Why It's the #1 Predictor of Lifespan | Luen"
+description: "VO2 Max is the strongest predictor of all-cause mortality. Here's what the research says, what score to aim for, and how to track it on Apple Watch."
 subtitle: "The research behind cardio fitness and mortality, what it means practically, and why the age-related decline is not fixed."
 date: 2026-02-20
 lastmod: 2026-02-20
@@ -10,12 +10,12 @@ sitemap:
   priority: 0.8
   changefreq: monthly
 faq:
-  - question: "Why is VO2 Max considered the best predictor of longevity?"
-    answer: "Large studies show that cardio fitness as measured by VO2 Max is more strongly associated with survival than nearly any other modifiable risk factor, including blood pressure, cholesterol, and smoking status. The relationship is consistent across age groups, sexes, and health conditions."
-  - question: "What VO2 Max should I aim for to live longer?"
-    answer: "Getting above the 25th percentile for your age and sex provides the largest mortality reduction. Beyond that, higher is consistently better with no observed upper limit to the benefit. Even modest improvements carry meaningful health gains."
-  - question: "Can you improve VO2 Max in your 50s and 60s?"
-    answer: "Yes. Studies show significant improvement is achievable at any age with consistent aerobic training. People who begin exercising regularly in their 50s and 60s can meaningfully improve their cardio fitness and longevity outlook."
+  - question: "Is VO2 Max really the best predictor of longevity?"
+    answer: "Yes, according to multiple large studies. A landmark study published in JAMA Network Open found that cardiorespiratory fitness (measured by VO2 Max) is a stronger predictor of all-cause mortality than smoking, diabetes, or hypertension. Low cardio fitness carries comparable mortality risk to end-stage kidney disease."
+  - question: "What VO2 Max do you need to live longer?"
+    answer: "There's no single magic number — the benefit is relative to your age and sex. However, the research is clear that the biggest mortality reduction comes from moving out of the bottom 25% for your demographic. Above the 50th percentile, you're in a strong position. Elite fitness (top 2-3%) is associated with roughly 5x lower mortality risk compared to the bottom 25%."
+  - question: "Can you increase your VO2 Max after 50?"
+    answer: "Absolutely. While VO2 Max naturally declines about 10% per decade, training can significantly slow or partially reverse this. Studies show that previously sedentary adults over 50 can improve VO2 Max by 15-20% within 6 months of structured aerobic training. The improvement potential is greatest for those starting from a lower baseline."
 related:
   - title: "VO2 Max by Age and Gender: Where Do You Stand?"
     url: "/learn/vo2-max-by-age-and-gender/"

@@ -1,7 +1,7 @@
 ---
 title: "VO2 Max by Age and Gender"
-seoTitle: "VO2 Max by Age & Gender: Percentile Charts for Men & Women"
-description: "Compare your VO2 Max using percentile charts broken down by age and gender. Includes ACSM norms and what your Apple Watch reading actually means."
+seoTitle: "VO2 Max by Age and Gender — Percentile Charts for Men & Women | Luen"
+description: "See where your VO2 Max ranks. Percentile charts for men and women by age decade, what Apple Watch measures, and how to improve your score. Free calculator included."
 subtitle: "Reference charts for men and women, from your 20s through your 70s and beyond."
 date: 2026-02-09
 lastmod: 2026-02-15
@@ -11,11 +11,13 @@ sitemap:
   changefreq: monthly
 faq:
   - question: "What is a good VO2 Max for my age?"
-    answer: "It depends on your age and sex. Use the tables above to find your range. As a rough guide, \"Good\" for a 40-year-old male is 43.8--48.0 ml/kg/min, and for a 40-year-old female it is 32.9--36.9 ml/kg/min. Anything in the \"Above Average\" range or higher puts you in a strong position for long-term health."
-  - question: "How accurate is Apple Watch VO2 Max?"
-    answer: "Apple Watch VO2 Max estimates are within approximately 1 ml/kg/min of laboratory testing for most people, validated across a range of 14--65 ml/kg/min. Accuracy improves with more outdoor walking, running, and hiking data. It is not a replacement for a clinical test, but it is a reliable way to track your trend over time."
-  - question: "Can you improve VO2 Max after 50?"
-    answer: "Yes. Consistent aerobic exercise produces measurable improvements at any age. Studies show 5--10% gains over 8--12 weeks in adults over 50. Both high-intensity interval training and steady-state cardio are effective. The age-related decline in VO2 Max is real, but it is not a fixed rate. Regular training significantly slows it."
+    answer: "A \"good\" VO2 Max is at or above the 50th percentile for your age and sex. For men aged 30-39, that's approximately 40-44 mL/kg/min. For women aged 30-39, approximately 31-35 mL/kg/min. Above the 75th percentile is considered excellent. Use our VO2 Max Percentile Calculator to check your exact ranking."
+  - question: "What are the ACSM VO2 Max percentiles by age?"
+    answer: "The most widely used VO2 Max percentile data comes from the FRIEND (Fitness Registry and the Importance of Exercise National Database), published in the Mayo Clinic Proceedings. It provides percentile rankings by sex for each decade from 20-79 years. The 50th percentile for men ranges from about 48 mL/kg/min at age 20-29 down to about 24 mL/kg/min at age 70-79."
+  - question: "How does VO2 Max change with age?"
+    answer: "VO2 Max declines approximately 10% per decade after age 25-30 in sedentary individuals. However, consistent aerobic training can slow this decline significantly. Active 60-year-olds can maintain VO2 Max levels comparable to sedentary 30-year-olds."
+  - question: "What VO2 Max do I need for longevity?"
+    answer: "Research shows that VO2 Max is the strongest predictor of all-cause mortality. Being in the bottom 25th percentile for your age and sex carries the highest risk. Moving from the bottom 25% to even below-average fitness is associated with a 50% reduction in mortality risk over a decade. Every 1 mL/kg/min increase reduces mortality risk by approximately 9%."
 related:
   - title: "What Is Cardio Fitness? A Simple Explanation"
     url: "/learn/what-is-cardio-fitness/"
