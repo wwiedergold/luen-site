@@ -28,7 +28,7 @@ related:
     url: "/tools/vo2-max-percentile-calculator/"
 ---
 
-If your Apple Watch is showing "Below Average" or "Low" [cardio fitness](/learn/what-is-cardio-fitness/), do not panic. This is common and often partially explained by how Apple Watch measures VO2 Max rather than your actual fitness level. Here is what the classification means, why it might be inaccurate, and what you can do about it.
+If your Apple Watch is showing "Below Average" or "Low" [cardio fitness](/learn/what-is-cardio-fitness/), do not panic. This is common and often partially explained by how Apple Watch measures VO2 Max rather than your actual fitness level. Use our [Cardio Fitness Level Checker](/learn/cardio-fitness-level-checker/) to see exactly where you rank. Here is what the classification means, why it might be inaccurate, and what you can do about it.
 
 ## What Below Average Actually Means
 

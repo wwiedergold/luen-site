@@ -30,7 +30,7 @@ related:
 
 Du öffnest die Health-App auf deinem iPhone, und da steht es: **Kardio-Fitness – Unterdurchschnittlich**. Vielleicht hast du sogar eine Benachrichtigung bekommen. Das kann beunruhigend sein, besonders wenn du dich für jemanden hältst, der regelmäßig trainiert.
 
-Bevor du in Panik gerätst: Es gibt mehrere Gründe, warum dieser Wert nicht stimmen könnte. Und selbst wenn er stimmt, ist es kein Grund zur Sorge – sondern ein klarer Ausgangspunkt für Verbesserung.
+Bevor du in Panik gerätst: Es gibt mehrere Gründe, warum dieser Wert nicht stimmen könnte. Und selbst wenn er stimmt, ist es kein Grund zur Sorge – sondern ein klarer Ausgangspunkt für Verbesserung. Nutze unseren [Kardio-Fitness-Level Checker](/learn/cardio-fitness-level-checker/), um genau zu sehen, wo du stehst.
 
 ## Was unterdurchschnittlich wirklich bedeutet
 

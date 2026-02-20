@@ -62,7 +62,7 @@ The practical takeaway is straightforward. Improving your cardio fitness, even m
     </table>
 </div>
 
-Specific VO2 Max numbers vary by age and sex. A "Good" score for a 30-year-old is different from a "Good" score for a 60-year-old. See the [VO2 Max by age and gender chart](/learn/vo2-max-by-age-and-gender/) for detailed ranges.
+Specific VO2 Max numbers vary by age and sex. A "Good" score for a 30-year-old is different from a "Good" score for a 60-year-old. See the [VO2 Max by age and gender chart](/learn/vo2-max-by-age-and-gender/) for detailed ranges. Check your level with our [Cardio Fitness Level Checker](/learn/cardio-fitness-level-checker/).
 
 ## How to Check Yours
 
