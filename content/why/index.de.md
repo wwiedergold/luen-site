@@ -1,7 +1,8 @@
 ---
 title: "Dein Körper weiß es bereits. Fang an zuzuhören."
-description: "Dein Körper weiß es bereits. Fang an zuzuhören. Luen macht das Unsichtbare sichtbar – VO2 Max, Ruheherzfrequenz und die vier täglichen Gewohnheiten, die deine Langlebigkeit formen."
-ogTitle: "Manifest – Luen"
+seoTitle: "Warum Luen — VO2 Max & Herzfrequenz-Tracking, das passiv funktioniert"
+description: "Luen macht das Unsichtbare sichtbar. Verfolge VO2 Max, Ruheherzfrequenz und die vier täglichen Gewohnheiten, die deine kardiovaskuläre Gesundheit formen — automatisch."
+ogTitle: "Warum Luen — VO2 Max & Herzfrequenz-Tracking, das passiv funktioniert"
 type: "why"
 date: 2026-02-09
 lastmod: 2026-02-15

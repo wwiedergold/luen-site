@@ -1,6 +1,7 @@
 ---
 title: "Was ist Kardio-Fitness?"
-description: "Kardio-Fitness ist die Fähigkeit deines Körpers, Sauerstoff bei körperlicher Belastung zu nutzen, gemessen durch die VO2 Max. Was die Stufen bedeuten und wie du deine überprüfst."
+seoTitle: "Was ist Kardio-Fitness? VO2 Max Stufen erklärt"
+description: "Kardio-Fitness misst, wie gut dein Körper Sauerstoff bei Belastung nutzt. Erfahre, was VO2-Max-Stufen bedeuten und wie du deine auf der Apple Watch prüfst."
 subtitle: "Was sie misst, warum sie für die Langlebigkeit wichtig ist und wie du dein Level auf der Apple Watch überprüfst."
 date: 2026-02-20
 lastmod: 2026-02-20

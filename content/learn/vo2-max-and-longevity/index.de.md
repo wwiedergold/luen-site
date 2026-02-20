@@ -1,6 +1,7 @@
 ---
 title: "VO2 Max und Langlebigkeit"
-description: "VO2 Max ist der stärkste Prädiktor für die Gesamtmortalität. Die Evidenz, was es praktisch bedeutet, und warum der Rückgang nicht unvermeidlich ist."
+seoTitle: "VO2 Max und Langlebigkeit: Was die Forschung sagt"
+description: "Eine höhere VO2 Max ist mit einer längeren Lebensspanne verbunden. Die wichtigsten Studien, Risikoschwellen und wie viel Verbesserung wirklich zählt."
 subtitle: "Die Forschung hinter Kardio-Fitness und Sterblichkeit, was es praktisch bedeutet, und warum der altersbedingte Rückgang nicht festgelegt ist."
 date: 2026-02-20
 lastmod: 2026-02-20

@@ -1,5 +1,6 @@
 ---
 title: "Resting Heart Rate Percentile Calculator"
+seoTitle: "Resting Heart Rate Percentile Calculator — Check Your Fitness Level"
 description: "Find your resting heart rate percentile by age and gender. Enter your RHR and see how your cardiovascular fitness compares to others in your age group."
 subtitle: "Enter your age, sex, and resting heart rate to see how your cardiovascular fitness compares to others in your age group."
 ogTitle: "Resting Heart Rate Percentile Calculator by Age and Gender"

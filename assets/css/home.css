@@ -216,6 +216,48 @@
     line-height: 1.6;
 }
 
+/* Popular Guides */
+.guides {
+    padding: 120px 0;
+    background: var(--color-surface);
+}
+.guides-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+@media (max-width: 900px) {
+    .guides-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .guides-grid { grid-template-columns: 1fr; }
+}
+.guide-card {
+    display: block;
+    padding: 28px;
+    background: var(--color-bg);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+.guide-card:hover {
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-sm);
+}
+.guide-card h3 {
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    letter-spacing: -0.3px;
+    color: var(--color-text);
+}
+.guide-card p {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+}
+
 /* Social Proof */
 .social-proof {
     padding: 80px 0;

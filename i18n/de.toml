@@ -255,6 +255,49 @@ other = "Wie verbindet Luen tägliche Gewohnheiten mit kardiovaskulärer Fitness
 [jsonld_faq8_a]
 other = "Luen liest deine Apple-Watch-Daten und analysiert, wie vier tägliche Gewohnheiten – Bewegung, Schlaf, Tageslichtexposition und Stress – mit deiner VO2 Max und Ruheherzfrequenz im Zeitverlauf korrelieren. Es zeigt Muster aus deinen persönlichen Daten statt allgemeiner Ratschläge und hilft dir zu erkennen, welche Gewohnheiten den größten Einfluss auf deine kardiovaskuläre Fitness haben."
 
+# Popular Guides (homepage)
+[guides_label]
+other = "Ratgeber"
+
+[guides_title]
+other = "Beliebte Ratgeber"
+
+[guide_vo2_age_title]
+other = "VO2 Max nach Alter: Perzentil-Tabellen"
+
+[guide_vo2_age_desc]
+other = "Sieh, wo deine VO2 Max im Vergleich zu Gleichaltrigen steht – mit Perzentil-Tabellen für Männer und Frauen."
+
+[guide_rhr_sleep_title]
+other = "Ruheherzfrequenz im Schlaf: Normalbereiche"
+
+[guide_rhr_sleep_desc]
+other = "Was nach Alter normal ist für die Schlaf-Herzfrequenz, was sie stört und wann Anlass zur Sorge besteht."
+
+[guide_cardio_title]
+other = "Was ist Kardio-Fitness?"
+
+[guide_cardio_desc]
+other = "Was Kardio-Fitness misst, warum sie für die Langlebigkeit wichtig ist und wie du deine auf der Apple Watch prüfst."
+
+[guide_longevity_title]
+other = "VO2 Max und Langlebigkeit"
+
+[guide_longevity_desc]
+other = "Die Forschung, die VO2 Max mit Lebensspanne verbindet, die wichtigsten Schwellenwerte und warum es in jedem Alter zählt."
+
+[guide_improve_title]
+other = "Wie du deine VO2 Max verbesserst"
+
+[guide_improve_desc]
+other = "Trainingsmethoden, realistische Zeitrahmen und tägliche Gewohnheiten, die echte Kardio-Fitness-Verbesserungen bewirken."
+
+[guide_rhr_age_title]
+other = "Ruheherzfrequenz nach Alter"
+
+[guide_rhr_age_desc]
+other = "Normalbereiche für Männer, Frauen und Sportler, und die Gewohnheiten, die deine Zahl formen."
+
 # Calculator CTA
 [calc_cta_vo2]
 other = "Verfolge, wie sich deine VO2 Max im Zeitverlauf verändert."

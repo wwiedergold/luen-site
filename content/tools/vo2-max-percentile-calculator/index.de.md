@@ -1,5 +1,6 @@
 ---
 title: "VO2 Max Perzentil-Rechner"
+seoTitle: "VO2 Max Perzentil-Rechner — Prüfe dein Fitnesslevel"
 description: "Finde dein VO2-Max-Perzentil nach Alter und Geschlecht. Gib deinen Wert ein und sieh, wie deine Kardio-Fitness im Vergleich zu anderen abschneidet. Basierend auf ACSM-Daten."
 subtitle: "Gib dein Alter, Geschlecht und deine VO2 Max ein, um zu sehen, wie deine Kardio-Fitness im Vergleich zu Gleichaltrigen abschneidet."
 ogTitle: "VO2 Max Perzentil-Rechner nach Alter und Geschlecht"

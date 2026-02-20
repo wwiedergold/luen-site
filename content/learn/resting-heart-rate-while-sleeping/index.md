@@ -1,6 +1,7 @@
 ---
 title: "Resting Heart Rate While Sleeping"
-description: "Normal sleeping heart rate is 10-20% lower than daytime resting rate. What is normal by age, what disrupts it, and why it matters."
+seoTitle: "Resting Heart Rate While Sleeping: What's Normal by Age?"
+description: "Your sleeping heart rate is typically 10–20% lower than daytime. See normal ranges by age, what disrupts it, and when to be concerned."
 subtitle: "How sleeping heart rate differs from daytime resting rate, what is normal by age, and what disrupts it."
 date: 2026-02-20
 lastmod: 2026-02-20

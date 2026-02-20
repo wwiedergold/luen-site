@@ -255,6 +255,49 @@ other = "How does Luen connect daily habits to cardiovascular fitness?"
 [jsonld_faq8_a]
 other = "Luen reads your Apple Watch data and analyzes how four daily habits — exercise, sleep, daylight exposure, and stress — correlate with your VO2 Max and Resting Heart Rate over time. It shows patterns from your own personal data rather than generic advice, helping you see which habits have the most impact on your cardiovascular fitness."
 
+# Popular Guides (homepage)
+[guides_label]
+other = "Guides"
+
+[guides_title]
+other = "Popular Guides"
+
+[guide_vo2_age_title]
+other = "VO2 Max by Age: Percentile Charts"
+
+[guide_vo2_age_desc]
+other = "See where your VO2 Max falls compared to others your age with percentile charts for men and women."
+
+[guide_rhr_sleep_title]
+other = "Resting Heart Rate While Sleeping: Normal Ranges"
+
+[guide_rhr_sleep_desc]
+other = "What is normal for sleeping heart rate by age, what disrupts it, and when to be concerned."
+
+[guide_cardio_title]
+other = "What Is Cardio Fitness?"
+
+[guide_cardio_desc]
+other = "What cardio fitness measures, why it matters for longevity, and how to check yours on Apple Watch."
+
+[guide_longevity_title]
+other = "VO2 Max and Longevity"
+
+[guide_longevity_desc]
+other = "The research linking VO2 Max to lifespan, the key thresholds, and why it matters at every age."
+
+[guide_improve_title]
+other = "How to Improve Your VO2 Max"
+
+[guide_improve_desc]
+other = "Training methods, realistic timelines, and daily habits that drive real cardio fitness gains."
+
+[guide_rhr_age_title]
+other = "Resting Heart Rate by Age"
+
+[guide_rhr_age_desc]
+other = "Normal ranges for men, women, and athletes, and the habits that shape your number."
+
 # Calculator CTA
 [calc_cta_vo2]
 other = "Track how your VO2 Max changes over time."

@@ -1,6 +1,7 @@
 ---
 title: "How Sleep Affects Your Heart Rate"
-description: "Poor sleep raises resting heart rate by 3-7 bpm and limits fitness gains. The direct connection between sleep quality and cardiovascular health."
+seoTitle: "Does Sleep Affect Heart Rate? What Your Data Shows"
+description: "Sleep quality directly impacts your heart rate. See how sleep duration, alcohol, stress, and fitness level change your nightly heart rate patterns."
 subtitle: "The direct connection between sleep quality, resting heart rate, and your ability to build cardiovascular fitness."
 date: 2026-02-20
 lastmod: 2026-02-20

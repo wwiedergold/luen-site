@@ -1,6 +1,7 @@
 ---
 title: "Wie du deine Ruheherzfrequenz senkst"
-description: "Senke deine Ruheherzfrequenz mit aerobem Training, besserem Schlaf und Stressmanagement. Realistische Zeitrahmen und was du erwarten kannst."
+seoTitle: "Ruheherzfrequenz senken: Evidenzbasierte Methoden"
+description: "Senke deine Ruheherzfrequenz mit bewährten Methoden — aerobes Training, Schlaf, Stressmanagement und mehr. Was wirklich funktioniert."
 subtitle: "Die effektivsten Methoden, realistische Zeitrahmen und die täglichen Gewohnheiten, die den größten Unterschied machen."
 date: 2026-02-20
 lastmod: 2026-02-20
