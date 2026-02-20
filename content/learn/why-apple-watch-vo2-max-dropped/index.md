@@ -43,7 +43,7 @@ This is the single most common cause of phantom VO2 Max drops, and almost nobody
 
 Apple Watch estimates your VO2 Max during outdoor walks, runs, and hikes — and only those activities. It does this by measuring how your heart rate responds to effort. The problem: if you finish a hard gym session, a cycling workout, or a HIIT class and then walk outside with your heart rate still elevated, your Watch sees a person walking slowly with a high heart rate. It interprets this as poor [cardio fitness](/learn/what-is-cardio-fitness/).
 
-Your actual fitness didn't change. The Watch just caught you at a bad moment.
+Your actual fitness didn't change. The Watch just caught you at a bad moment. You can use our [Cardio Fitness Level Checker](/learn/cardio-fitness-level-checker/) to see how your current VO2 Max maps to the Apple Watch classification levels.
 
 **What to do:** Wait at least 10–15 minutes after intense exercise before going for an outdoor walk. Or simply don't start an outdoor workout on your Watch during a cooldown walk. If you want to walk home from the gym, that's fine — just don't record it as a workout.
 

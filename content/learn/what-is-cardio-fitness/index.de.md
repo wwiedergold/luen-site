@@ -62,7 +62,7 @@ Die praktische Schlussfolgerung ist einfach. Deine Kardio-Fitness zu verbessern,
     </table>
 </div>
 
-Die konkreten VO2 Max Werte variieren nach Alter und Geschlecht. Ein "guter" Wert für einen 30-Jährigen unterscheidet sich von einem "guten" Wert für einen 60-Jährigen. Detaillierte Bereiche findest du in der [VO2 Max Tabelle nach Alter und Geschlecht](/learn/vo2-max-by-age-and-gender/).
+Die konkreten VO2 Max Werte variieren nach Alter und Geschlecht. Ein "guter" Wert für einen 30-Jährigen unterscheidet sich von einem "guten" Wert für einen 60-Jährigen. Detaillierte Bereiche findest du in der [VO2 Max Tabelle nach Alter und Geschlecht](/learn/vo2-max-by-age-and-gender/). Prüfe dein Level mit unserem [Kardio-Fitness-Level Checker](/learn/cardio-fitness-level-checker/).
 
 ## So überprüfst du deinen Wert
 

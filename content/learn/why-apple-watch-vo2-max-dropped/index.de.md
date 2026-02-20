@@ -43,7 +43,7 @@ Das ist die häufigste Ursache für scheinbare VO2-Max-Rückgänge, und fast nie
 
 Die Apple Watch schätzt deine VO2 Max bei Spaziergängen, Läufen und Wanderungen im Freien — und nur bei diesen Aktivitäten. Sie misst dabei, wie deine Herzfrequenz auf Belastung reagiert. Das Problem: Wenn du eine harte Gym-Session, ein Radtraining oder einen HIIT-Kurs beendest und dann mit noch erhöhter Herzfrequenz draußen spazieren gehst, sieht deine Watch eine Person, die langsam geht, aber einen hohen Puls hat. Sie interpretiert das als schlechte [Kardio-Fitness](/learn/what-is-cardio-fitness/).
 
-Deine tatsächliche Fitness hat sich nicht verändert. Die Watch hat dich nur in einem ungünstigen Moment erwischt.
+Deine tatsächliche Fitness hat sich nicht verändert. Die Watch hat dich nur in einem ungünstigen Moment erwischt. Du kannst unseren [Kardio-Fitness-Level Checker](/learn/cardio-fitness-level-checker/) nutzen, um zu sehen, wie deine aktuelle VO2 Max den Apple Watch Einstufungsstufen entspricht.
 
 **Was du tun kannst:** Warte mindestens 10–15 Minuten nach intensivem Training, bevor du einen Outdoor-Spaziergang machst. Oder starte einfach kein Outdoor-Workout auf deiner Watch während eines Cooldown-Spaziergangs. Wenn du vom Gym nach Hause laufen willst, ist das in Ordnung — zeichne es nur nicht als Workout auf.
 

@@ -31,7 +31,7 @@ related:
     url: "/tools/vo2-max-percentile-calculator/"
 ---
 
-Eine gute VO2 Max hängt von deinem Alter und Geschlecht ab. Für einen 40-jährigen Mann liegt alles über 39 ml/kg/min über dem Durchschnitt. Für eine 40-jährige Frau setzt dich ein Wert über 29 ml/kg/min über den Mittelwert. Die folgenden Tabellen geben dir das vollständige Bild: VO2 Max Perzentil-Bereiche nach Altersgruppe für Männer und Frauen, basierend auf Daten des American College of Sports Medicine. Nutze unseren [VO2 Max Perzentil-Rechner](/tools/vo2-max-percentile-calculator/), um genau zu sehen, wo du stehst.
+Eine gute VO2 Max hängt von deinem Alter und Geschlecht ab. Für einen 40-jährigen Mann liegt alles über 39 ml/kg/min über dem Durchschnitt. Für eine 40-jährige Frau setzt dich ein Wert über 29 ml/kg/min über den Mittelwert. Die folgenden Tabellen geben dir das vollständige Bild: VO2 Max Perzentil-Bereiche nach Altersgruppe für Männer und Frauen, basierend auf Daten des American College of Sports Medicine. Nutze unseren [VO2 Max Perzentil-Rechner](/tools/vo2-max-percentile-calculator/), um genau zu sehen, wo du stehst. Sieh, wie die Apple Watch deine VO2 Max einstufen würde, mit unserem [Kardio-Fitness-Level Checker](/learn/cardio-fitness-level-checker/).
 
 VO2 Max misst die maximale Menge an Sauerstoff, die dein Körper bei intensiver Belastung nutzen kann, ausgedrückt in Millilitern pro Kilogramm Körpergewicht pro Minute (ml/kg/min). Sie ist einer der stärksten Marker für [kardiovaskuläre Fitness](/why) und eng mit der Gesamtmortalität verknüpft. Höher ist besser, und sie nimmt natürlich mit dem Alter ab, etwa 1 % pro Jahr nach 30. Aber dieser Rückgang ist nicht festgelegt. Training kann ihn verlangsamen, stoppen oder umkehren.
 

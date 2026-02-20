@@ -31,7 +31,7 @@ related:
     url: "/tools/vo2-max-percentile-calculator/"
 ---
 
-A good VO2 Max depends on your age and sex. For a 40-year-old male, anything above 39 ml/kg/min is above average. For a 40-year-old female, above 29 ml/kg/min puts you ahead of the midpoint. The tables below give you the full picture: VO2 Max percentile ranges by age group for both men and women, based on data from the American College of Sports Medicine. Use our [VO2 Max percentile calculator](/tools/vo2-max-percentile-calculator/) to see exactly where you stand.
+A good VO2 Max depends on your age and sex. For a 40-year-old male, anything above 39 ml/kg/min is above average. For a 40-year-old female, above 29 ml/kg/min puts you ahead of the midpoint. The tables below give you the full picture: VO2 Max percentile ranges by age group for both men and women, based on data from the American College of Sports Medicine. Use our [VO2 Max percentile calculator](/tools/vo2-max-percentile-calculator/) to see exactly where you stand. See what Apple Watch would classify your VO2 Max as with our [Cardio Fitness Level Checker](/learn/cardio-fitness-level-checker/).
 
 VO2 Max measures the maximum amount of oxygen your body can use during intense exercise, expressed in milliliters per kilogram of body weight per minute (ml/kg/min). It is one of the strongest markers of [cardiovascular fitness](/why) and is closely linked to all-cause mortality. Higher is better, and it declines naturally with age, roughly 1% per year after 30. But that decline is not fixed. Training can slow it, stop it, or reverse it.
 
