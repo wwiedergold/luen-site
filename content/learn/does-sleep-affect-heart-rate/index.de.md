@@ -1,6 +1,7 @@
 ---
 title: "Wie Schlaf deine Herzfrequenz beeinflusst"
-description: "Schlechter Schlaf erhöht die Ruheherzfrequenz um 3-7 Schläge pro Minute und begrenzt Fitnessgewinne. Der direkte Zusammenhang zwischen Schlafqualität und kardiovaskulärer Gesundheit."
+seoTitle: "Beeinflusst Schlaf die Herzfrequenz? Was deine Daten zeigen"
+description: "Schlafqualität beeinflusst direkt deine Herzfrequenz. Sieh, wie Schlafdauer, Alkohol, Stress und Fitnesslevel deine nächtlichen Herzfrequenzmuster verändern."
 subtitle: "Der direkte Zusammenhang zwischen Schlafqualität, Ruheherzfrequenz und deiner Fähigkeit, kardiovaskuläre Fitness aufzubauen."
 date: 2026-02-20
 lastmod: 2026-02-20

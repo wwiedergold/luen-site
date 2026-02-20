@@ -1,6 +1,7 @@
 ---
 title: "Learn"
-description: "Reference guides on cardiovascular fitness, what your numbers mean, and how to improve them."
+seoTitle: "Learn — VO2 Max, Heart Rate & Cardio Fitness Guides"
+description: "Evidence-based guides on VO2 Max, Resting Heart Rate, cardio fitness, and what your Apple Watch health data actually means."
 articles:
   - title: "VO2 Max by Age and Gender"
     description: "Percentile charts for men and women, what Apple Watch measures, and how to improve your score."

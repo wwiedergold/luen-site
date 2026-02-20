@@ -1,6 +1,7 @@
 ---
 title: "Lernen"
-description: "Referenzleitfäden zu kardiovaskulärer Fitness, was deine Zahlen bedeuten und wie du sie verbessern kannst."
+seoTitle: "Lernen — VO2 Max, Herzfrequenz & Kardio-Fitness Ratgeber"
+description: "Evidenzbasierte Ratgeber zu VO2 Max, Ruheherzfrequenz, Kardio-Fitness und was deine Apple-Watch-Gesundheitsdaten wirklich bedeuten."
 articles:
   - title: "VO2 Max nach Alter und Geschlecht"
     description: "Perzentil-Tabellen für Männer und Frauen, was die Apple Watch misst, und wie du deinen Wert verbessern kannst."

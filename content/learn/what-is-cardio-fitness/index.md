@@ -1,6 +1,7 @@
 ---
 title: "What Is Cardio Fitness?"
-description: "Cardio fitness is your body's ability to use oxygen during exercise, measured by VO2 Max. What the levels mean and how to check yours."
+seoTitle: "What Is Cardio Fitness? VO2 Max Levels Explained"
+description: "Cardio fitness measures how well your body uses oxygen during exercise. Learn what VO2 Max levels mean and how to check yours on Apple Watch."
 subtitle: "What it measures, why it matters for longevity, and how to check your level on Apple Watch."
 date: 2026-02-20
 lastmod: 2026-02-20

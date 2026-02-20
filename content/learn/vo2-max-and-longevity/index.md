@@ -1,6 +1,7 @@
 ---
 title: "VO2 Max and Longevity"
-description: "VO2 Max is the strongest predictor of all-cause mortality. The evidence, what it means practically, and why the decline is not inevitable."
+seoTitle: "VO2 Max and Longevity: What the Research Says"
+description: "Higher VO2 Max is linked to longer lifespan. Review the key studies, risk thresholds, and how much improvement actually matters."
 subtitle: "The research behind cardio fitness and mortality, what it means practically, and why the age-related decline is not fixed."
 date: 2026-02-20
 lastmod: 2026-02-20

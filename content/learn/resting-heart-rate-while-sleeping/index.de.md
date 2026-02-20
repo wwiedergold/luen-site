@@ -1,6 +1,7 @@
 ---
 title: "Ruheherzfrequenz im Schlaf"
-description: "Die normale Schlaf-Herzfrequenz ist 10-20 % niedriger als die Tages-Ruheherzfrequenz. Was nach Alter normal ist, was sie stört, und warum es wichtig ist."
+seoTitle: "Ruheherzfrequenz im Schlaf: Was ist normal nach Alter?"
+description: "Deine Schlaf-Herzfrequenz ist typischerweise 10–20 % niedriger als tagsüber. Sieh Normalbereiche nach Alter, was sie stört und wann Anlass zur Sorge besteht."
 subtitle: "Wie sich die Schlaf-Herzfrequenz von der Tages-Ruheherzfrequenz unterscheidet, was nach Alter normal ist, und was sie stört."
 date: 2026-02-20
 lastmod: 2026-02-20

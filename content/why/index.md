@@ -1,7 +1,8 @@
 ---
 title: "Your body already knows. Start listening."
-description: "Your body already knows. Start listening. Luen makes the invisible visible - VO2 Max, Resting Heart Rate, and the four daily habits that shape your longevity."
-ogTitle: "Manifesto – Luen"
+seoTitle: "Why Luen — VO2 Max & Heart Rate Tracking That Works Passively"
+description: "Luen makes the invisible visible. Track VO2 Max, Resting Heart Rate, and the four daily habits that shape your cardiovascular health — automatically."
+ogTitle: "Why Luen — VO2 Max & Heart Rate Tracking That Works Passively"
 type: "why"
 date: 2026-02-09
 lastmod: 2026-02-15

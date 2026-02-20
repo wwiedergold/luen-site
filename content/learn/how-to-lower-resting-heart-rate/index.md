@@ -1,6 +1,7 @@
 ---
 title: "How to Lower Resting Heart Rate"
-description: "Lower your resting heart rate with aerobic exercise, better sleep, and stress management. Realistic timelines and what to expect."
+seoTitle: "How to Lower Your Resting Heart Rate: Evidence-Based Methods"
+description: "Lower your resting heart rate with proven methods — aerobic exercise, sleep, stress management, and more. See what actually works."
 subtitle: "The most effective methods, realistic timelines, and the daily habits that make the biggest difference."
 date: 2026-02-20
 lastmod: 2026-02-20

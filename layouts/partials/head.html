@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Primary Meta Tags -->
-<title>{{ .Title }}{{ if not .IsHome }} - Luen{{ end }}</title>
+<title>{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ if not .IsHome }} - Luen{{ end }}{{ end }}</title>
 <meta name="description" content="{{ .Description | default site.Params.description }}">
 <meta name="author" content="{{ site.Params.author }}">
 <meta name="robots" content="index, follow">
@@ -12,9 +12,9 @@
 <meta name="apple-itunes-app" content="app-id={{ site.Params.appID }}">
 
 <!-- Open Graph -->
-<meta property="og:type" content="{{ if eq .Section "learn" }}article{{ else }}website{{ end }}">
+<meta property="og:type" content="{{ if or (eq .Section "learn") (eq .Section "why") }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ .Params.ogTitle | default .Title }}">
+<meta property="og:title" content="{{ .Params.ogTitle | default (.Params.seoTitle | default .Title) }}">
 <meta property="og:description" content="{{ .Description | default site.Params.description }}">
 <meta property="og:image" content="{{ .Params.ogImage | default site.Params.ogImage | absURL }}">
 {{ if .IsHome }}<meta property="og:image:width" content="1200">
@@ -23,7 +23,7 @@
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Params.ogTitle | default .Title }}">
+<meta name="twitter:title" content="{{ .Params.ogTitle | default (.Params.seoTitle | default .Title) }}">
 <meta name="twitter:description" content="{{ .Description | default site.Params.description }}">
 <meta name="twitter:image" content="{{ .Params.ogImage | default site.Params.ogImage | absURL }}">
 

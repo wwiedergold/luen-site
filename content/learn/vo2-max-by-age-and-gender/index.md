@@ -1,6 +1,7 @@
 ---
 title: "VO2 Max by Age and Gender"
-description: "VO2 Max ranges by age and gender with percentile charts for men and women. Find out where you stand and what Apple Watch can tell you."
+seoTitle: "VO2 Max by Age & Gender: Percentile Charts for Men & Women"
+description: "Compare your VO2 Max using percentile charts broken down by age and gender. Includes ACSM norms and what your Apple Watch reading actually means."
 subtitle: "Reference charts for men and women, from your 20s through your 70s and beyond."
 date: 2026-02-09
 lastmod: 2026-02-15
@@ -16,12 +17,14 @@ faq:
   - question: "Can you improve VO2 Max after 50?"
     answer: "Yes. Consistent aerobic exercise produces measurable improvements at any age. Studies show 5--10% gains over 8--12 weeks in adults over 50. Both high-intensity interval training and steady-state cardio are effective. The age-related decline in VO2 Max is real, but it is not a fixed rate. Regular training significantly slows it."
 related:
+  - title: "What Is Cardio Fitness? A Simple Explanation"
+    url: "/learn/what-is-cardio-fitness/"
   - title: "How to Improve Your VO2 Max: What Actually Works"
     url: "/learn/how-to-improve-vo2-max/"
-  - title: "How Accurate Is Apple Watch VO2 Max?"
-    url: "/learn/apple-watch-vo2-max-accuracy/"
   - title: "VO2 Max and Longevity: The Metric That Predicts How Long You Live"
     url: "/learn/vo2-max-and-longevity/"
+  - title: "How Accurate Is Apple Watch VO2 Max?"
+    url: "/learn/apple-watch-vo2-max-accuracy/"
   - title: "Resting Heart Rate by Age: What's Normal for You?"
     url: "/learn/resting-heart-rate-by-age/"
   - title: "VO2 Max Percentile Calculator"

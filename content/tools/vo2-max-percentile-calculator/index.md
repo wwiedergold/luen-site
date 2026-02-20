@@ -1,5 +1,6 @@
 ---
 title: "VO2 Max Percentile Calculator"
+seoTitle: "VO2 Max Percentile Calculator — Check Your Fitness Level"
 description: "Find your VO2 Max percentile by age and gender. Enter your score and see how your cardio fitness compares to others. Based on ACSM data."
 subtitle: "Enter your age, sex, and VO2 Max to see how your cardio fitness compares to others in your age group."
 ogTitle: "VO2 Max Percentile Calculator by Age and Gender"

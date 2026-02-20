@@ -1,5 +1,6 @@
 ---
 title: "Ruheherzfrequenz Perzentil-Rechner"
+seoTitle: "Ruheherzfrequenz Perzentil-Rechner — Prüfe dein Fitnesslevel"
 description: "Finde dein Ruheherzfrequenz-Perzentil nach Alter und Geschlecht. Gib deine RHF ein und sieh, wie deine kardiovaskuläre Fitness im Vergleich zu Gleichaltrigen abschneidet."
 subtitle: "Gib dein Alter, Geschlecht und deine Ruheherzfrequenz ein, um zu sehen, wie deine kardiovaskuläre Fitness im Vergleich zu Gleichaltrigen abschneidet."
 ogTitle: "Ruheherzfrequenz Perzentil-Rechner nach Alter und Geschlecht"

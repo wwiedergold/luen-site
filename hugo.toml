@@ -2,7 +2,11 @@ baseURL = "https://luen.app"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-title = "Luen - VO2 Max & Heart Rate Mirror"
+title = "Luen — Track VO2 Max & Resting Heart Rate from Apple Watch"
+
+# Trailing slashes: Hugo page bundles produce trailing-slash URLs by default.
+# Hosting provider should 301 (not 302) redirect non-trailing-slash to trailing-slash.
+trailingSlash = true
 
 # Disable unused features
 disableKinds = ["taxonomy", "term"]
@@ -20,7 +24,7 @@ disableHugoGeneratorInject = true
 
 # Site params
 [params]
-  description = "Your body is keeping score. Luen reads your Apple Watch data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging. No manual input. You live your life. Luen shows you what your body thinks about it."
+  description = "Luen reads your Apple Watch health data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging required."
   author = "Willi Wiedergold"
   appStoreURL = "https://apps.apple.com/app/luen/id6758587026"
   appID = "6758587026"
@@ -31,7 +35,7 @@ disableHugoGeneratorInject = true
   [languages.en]
     languageName = "English"
     weight = 1
-    title = "Luen - VO2 Max & Heart Rate Mirror"
+    title = "Luen — Track VO2 Max & Resting Heart Rate from Apple Watch"
 
     [[languages.en.menus.main]]
       name = "Features"
@@ -78,10 +82,10 @@ disableHugoGeneratorInject = true
   [languages.de]
     languageName = "Deutsch"
     weight = 2
-    title = "Luen - VO2 Max & Herzfrequenz-Spiegel"
+    title = "Luen — VO2 Max & Ruheherzfrequenz von der Apple Watch verfolgen"
 
     [languages.de.params]
-      description = "Dein Körper führt Buch. Luen liest deine Apple-Watch-Daten und verbindet deine VO2 Max und Ruheherzfrequenz mit vier täglichen Gewohnheiten. Kein Protokollieren. Keine manuelle Eingabe. Du lebst dein Leben. Luen zeigt dir, was dein Körper darüber denkt."
+      description = "Luen liest deine Apple-Watch-Gesundheitsdaten und verbindet deine VO2 Max und Ruheherzfrequenz mit vier täglichen Gewohnheiten. Kein Protokollieren nötig."
 
     [[languages.de.menus.main]]
       name = "Funktionen"
