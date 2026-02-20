@@ -1,10 +1,11 @@
 ---
 title: "Wie du deine VO2 Max verbesserst"
-description: "Bewährte Methoden zur Verbesserung deiner VO2 Max mit Zone-2-Training und Intervallen. Realistische Zeitrahmen und was deine Apple Watch zeigt."
+seoTitle: "VO2 Max verbessern: Was wirklich funktioniert"
+description: "Verbessere deine VO2 Max mit Zone-2-Training, HIIT-Intervallen und täglichen Gewohnheiten. Realistische Zeitrahmen und was deine Apple Watch zeigt."
 subtitle: "Die Trainingsmethoden, Zeitrahmen und täglichen Gewohnheiten, die echte Kardio-Fitness-Verbesserungen bewirken."
 date: 2026-02-20
 lastmod: 2026-02-20
-ogTitle: "Wie du deine VO2 Max verbesserst: Was wirklich funktioniert"
+ogTitle: "VO2 Max verbessern: Was wirklich funktioniert"
 sitemap:
   priority: 0.8
   changefreq: monthly

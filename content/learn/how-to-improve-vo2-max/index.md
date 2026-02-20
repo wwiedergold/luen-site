@@ -1,6 +1,7 @@
 ---
 title: "How to Improve Your VO2 Max"
-description: "Proven methods to improve your VO2 Max with Zone 2 training and intervals. Realistic timelines and what your Apple Watch shows."
+seoTitle: "How to Improve Your VO2 Max: What Actually Works"
+description: "Improve your VO2 Max with Zone 2 training, HIIT intervals, and daily habit changes. Realistic timelines and what your Apple Watch will show."
 subtitle: "The training methods, timelines, and daily habits that drive real cardio fitness gains."
 date: 2026-02-20
 lastmod: 2026-02-20
