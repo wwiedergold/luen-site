@@ -70,4 +70,4 @@ Apple Watch estimates your cardio fitness automatically after outdoor walks, run
 
 [Luen](/) reads this estimate from Apple Health and shows you how it connects to your daily habits: exercise, sleep, daylight, and stress. Instead of a number sitting in the Health app, you get context, your percentile for your age group and the patterns that correlate with changes over time.
 
-If your reading seems [lower than expected](/learn/apple-watch-cardio-fitness-below-average/), make sure you are doing enough outdoor workouts and that you are not measuring immediately after intense indoor exercise. The accuracy of the estimate depends on the quality and quantity of the data your watch collects.
+If your reading seems [lower than expected](/learn/apple-watch-cardio-fitness-below-average/), make sure you are doing enough outdoor workouts and that you are not measuring immediately after intense indoor exercise. The accuracy of the estimate depends on the quality and quantity of the data your watch collects. If your cardio fitness level dropped recently, see [why your Apple Watch VO2 Max might have dropped](/learn/why-apple-watch-vo2-max-dropped/).

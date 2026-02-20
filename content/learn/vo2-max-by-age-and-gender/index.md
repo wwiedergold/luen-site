@@ -104,3 +104,5 @@ The reading updates as you accumulate more outdoor workouts. It won't update fro
 ## How to Improve Your VO2 Max
 
 The most effective method is consistent aerobic exercise, particularly high-intensity interval training (HIIT). Two to three sessions per week of intervals, alternating between near-maximum effort and recovery, can produce measurable gains in 6--8 weeks. Steady-state cardio (running, cycling, swimming at a sustained moderate pace) also contributes, especially for building the aerobic base. The key is consistency over weeks and months, not any single workout.
+
+If your score recently dropped, see [why your Apple Watch VO2 Max might have dropped](/learn/why-apple-watch-vo2-max-dropped/).
