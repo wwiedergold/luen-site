@@ -1,0 +1,30 @@
+{{ define "styles" }}
+{{ $hubCSS := resources.Get "css/learn-hub.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $hubCSS.RelPermalink }}">
+{{ end }}
+
+{{ define "structured-data" }}
+{{ partial "json-ld/breadcrumb.html" . }}
+{{ end }}
+
+{{ define "main" }}
+    <div class="container-narrow">
+        {{ partial "breadcrumb.html" . }}
+
+        <div class="page-content">
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}<p class="page-subtitle">{{ . }}</p>{{ end }}
+
+            {{ .Content }}
+
+            <div class="article-list">
+                {{- range .Pages }}
+                <a href="{{ .RelPermalink }}" class="article-card">
+                    <h3>{{ .Title }}</h3>
+                    <p>{{ .Description }}</p>
+                </a>
+                {{- end }}
+            </div>
+        </div>
+    </div>
+{{ end }}

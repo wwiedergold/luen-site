@@ -1,0 +1,8 @@
+# Trailing slash enforcement — 301 redirect non-trailing-slash to trailing-slash.
+# Processed by Cloudflare Pages and Netlify. Ignored by GitHub Pages.
+{{ range .Site.AllPages -}}
+{{ $clean := .RelPermalink | strings.TrimSuffix "/" -}}
+{{ if $clean -}}
+{{ $clean }}  {{ .RelPermalink }}  301
+{{ end -}}
+{{ end -}}

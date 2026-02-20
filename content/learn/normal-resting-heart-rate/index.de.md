@@ -1,10 +1,11 @@
 ---
 title: "Normale Ruheherzfrequenz"
-description: "Eine normale Ruheherzfrequenz liegt bei 60-100 Schlägen pro Minute für Erwachsene. Was sie beeinflusst, wie man sie misst, wann man sich Sorgen machen sollte, und warum der Trend zählt."
+seoTitle: "Normale Ruheherzfrequenz: Bereiche & Wann zum Arzt"
+description: "Eine normale Ruheherzfrequenz für Erwachsene liegt bei 60–100 bpm, aber niedriger ist meist besser. Was sie beeinflusst, wie du sie misst, und wann du zum Arzt solltest."
 subtitle: "Der gesunde Bereich, was deine Zahl beeinflusst, wie du sie misst, und warum der Trend mehr zählt als jede einzelne Messung."
 date: 2026-02-20
 lastmod: 2026-02-20
-ogTitle: "Was ist eine normale Ruheherzfrequenz?"
+ogTitle: "Normale Ruheherzfrequenz: Bereiche & Wann zum Arzt"
 sitemap:
   priority: 0.8
   changefreq: monthly

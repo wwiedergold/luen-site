@@ -22,6 +22,21 @@ disableHugoGeneratorInject = true
   changefreq = "monthly"
   priority = 0.5
 
+# Custom output format: _redirects file for Cloudflare Pages / Netlify
+# GitHub Pages handles trailing-slash redirects natively (301 when path/index.html exists).
+# This file provides server-side 301 redirects on platforms that support _redirects.
+[mediaTypes."text/redirects"]
+  delimiter = ""
+
+[outputFormats.REDIRECTS]
+  mediaType = "text/redirects"
+  baseName = "_redirects"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "REDIRECTS"]
+
 # Site params
 [params]
   description = "Luen reads your Apple Watch health data and connects your VO2 Max and Resting Heart Rate to four daily habits. No logging required."

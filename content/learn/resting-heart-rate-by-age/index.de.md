@@ -1,10 +1,11 @@
 ---
 title: "Ruheherzfrequenz nach Alter"
-description: "Normale Ruheherzfrequenz-Bereiche nach Alter für Männer, Frauen und Sportler. Tabellen, was deine RHF beeinflusst, und wie die Apple Watch sie verfolgt."
+seoTitle: "Ruheherzfrequenz nach Alter: Normalwerte für Männer & Frauen"
+description: "Normale Ruheherzfrequenz-Bereiche nach Alter für Männer, Frauen und Sportler. Was deine RHF beeinflusst und wie du sie mit der Apple Watch verfolgst."
 subtitle: "Normalbereiche für Männer, Frauen und Sportler, und die Gewohnheiten, die deine Zahl formen."
 date: 2026-02-09
 lastmod: 2026-02-15
-ogTitle: "Ruheherzfrequenz nach Alter: Was ist normal für dich?"
+ogTitle: "Ruheherzfrequenz nach Alter: Normalwerte für Männer & Frauen"
 sitemap:
   priority: 0.8
   changefreq: monthly

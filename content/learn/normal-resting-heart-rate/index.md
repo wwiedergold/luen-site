@@ -1,10 +1,11 @@
 ---
 title: "Normal Resting Heart Rate"
-description: "A normal resting heart rate is 60-100 bpm for adults. What affects it, how to measure it, when to worry, and why the trend matters."
+seoTitle: "What Is a Normal Resting Heart Rate? Ranges & When to Worry"
+description: "A normal resting heart rate for adults is 60–100 bpm, but lower is usually better. Learn what affects it, how to measure it, and when to see a doctor."
 subtitle: "The healthy range, what affects your number, how to measure it, and why the trend matters more than any single reading."
 date: 2026-02-20
 lastmod: 2026-02-20
-ogTitle: "What Is a Normal Resting Heart Rate?"
+ogTitle: "What Is a Normal Resting Heart Rate? Ranges & When to Worry"
 sitemap:
   priority: 0.8
   changefreq: monthly
