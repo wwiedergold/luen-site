@@ -97,6 +97,8 @@ Wenn dein VO2 Max über mehrere Wochen schrittweise gesunken ist, zusammen mit V
 
 **Was du tun kannst:** Bevor du den Rückgang als Sensorfehler abtust, bewerte ehrlich: Hast du schlechter geschlafen? Mehr Stress gehabt? Härter trainiert ohne ausreichende Erholung? Eine Erkältung bekämpft? Diese Faktoren beeinflussen die kardiovaskuläre Fitness tatsächlich, und deine Watch bemerkt es möglicherweise als Erstes.
 
+Lies mehr darüber, [wie Schlaf deinen VO2 Max beeinflusst](/learn/does-sleep-affect-vo2-max/).
+
 Genau dafür wurde [Luen](/) entwickelt. Es verbindet deine VO2 Max und [Ruheherzfrequenz](/learn/resting-heart-rate-by-age/) mit vier täglichen Gewohnheiten — Workouts, Schlaf, Tageslicht und Stress — damit du sehen kannst, welche Lebensstilfaktoren wirklich den Unterschied machen. Kein Logging nötig. Deine Apple-Watch-Daten erzählen die Geschichte.
 
 ## Wie genau ist die VO2 Max der Apple Watch eigentlich?
@@ -140,5 +142,7 @@ Dein Apple Watch VO2 Max ist wahrscheinlich aus einem langweiligen, technischen 
 Aber wenn der Rückgang real und anhaltend ist, könnte er das wertvollste Gesundheitssignal sein, das dir deine Watch gibt. VO2 Max ist einer der stärksten Prädiktoren für [Langlebigkeit und Gesamtmortalität](/learn/vo2-max-and-longevity/). Ein anhaltender Rückgang ist es wert, verstanden zu werden, nicht abgetan.
 
 Der Trick ist zu wissen, welche Rückgänge wichtig sind und welche nicht. Das ist schwer, wenn man einmal pro Woche auf eine einzelne Zahl in der Health-App starrt.
+
+Wenn sich dein Wert seit längerem nicht verändert hat, sinkt er vielleicht gar nicht — er aktualisiert sich nur nicht. Sieh dir an, [wie oft die Apple Watch den VO2 Max aktualisiert](/learn/how-often-apple-watch-updates-vo2-max/).
 
 Wenn du deine [VO2 Max verbessern](/learn/how-to-improve-vo2-max/) möchtest, ist der Weg klar: konsequentes aerobes Training, ausreichend Schlaf und Stressmanagement. Deine Apple Watch kann die Ergebnisse verfolgen — und [Luen](/) kann dir zeigen, welche Gewohnheiten sie antreiben.

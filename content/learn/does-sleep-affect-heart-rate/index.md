@@ -47,7 +47,7 @@ People who consistently sleep 7-9 hours tend to have resting heart rates 5-10 bp
 
 Poor sleep does not just raise resting heart rate. It impairs training adaptation. Your body builds cardiovascular fitness during recovery, not during exercise. The actual physiological changes that [improve VO2 Max](/learn/how-to-improve-vo2-max/), increased stroke volume, greater mitochondrial density, improved capillary growth, happen while you rest and sleep.
 
-Chronic under-sleeping limits VO2 Max improvement even with a good training program. Athletes who prioritize sleep see faster performance gains than those who train the same volume but sleep less. This applies equally to recreational exercisers.
+Chronic under-sleeping limits VO2 Max improvement even with a good training program. Athletes who prioritize sleep see faster performance gains than those who train the same volume but sleep less. This applies equally to recreational exercisers. Sleep also affects your VO2 Max directly — see [does sleep really affect your VO2 Max?](/learn/does-sleep-affect-vo2-max/)
 
 ## What to Watch For
 

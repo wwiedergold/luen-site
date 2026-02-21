@@ -79,6 +79,8 @@ Wenn du hauptsächlich auf dem Laufband läufst, im Fitnessstudio Rad fährst od
 
 **Lösung:** Mache mindestens ein- bis zweimal pro Woche einen zügigen Outdoor-Spaziergang oder -Lauf von mindestens 20 Minuten.
 
+Erfahre mehr darüber, [wie oft die Apple Watch den VO2 Max aktualisiert](/learn/how-often-apple-watch-updates-vo2-max/) und was eine neue Messung auslöst.
+
 ### Lockerer Sitz der Uhr
 
 Der optische Herzfrequenzsensor braucht guten Hautkontakt. Wenn die Uhr zu locker sitzt oder während des Trainings verrutscht, werden die Herzfrequenzdaten unzuverlässig – und damit auch die VO2-Max-Schätzung.

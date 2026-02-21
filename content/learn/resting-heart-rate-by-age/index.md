@@ -86,4 +86,6 @@ This adaptation is one of the most reliable indicators of cardiovascular fitness
 
 Apple Watch measures your heart rate throughout the day using photoplethysmography, green LED lights that detect blood flow through your wrist. It identifies your resting heart rate by looking at measurements taken when you've been still and inactive for a sustained period. The value updates daily and is stored in Apple Health.
 
+Want to understand what your trends mean over time? See [what your Apple Watch resting heart rate trends tell you](/learn/apple-watch-resting-heart-rate-trends/).
+
 [Luen](/) reads your resting heart rate from Apple Health and places it in context. You see your trend over weeks and months, how it compares to your age group, and how it correlates with your exercise, sleep, daylight, and stress patterns. A rising resting heart rate can be an early signal that something in your routine has changed, before you feel it yourself.

@@ -55,6 +55,6 @@ A resting heart rate consistently above 100 bpm (tachycardia) warrants medical a
 
 ## Tracking the Trend
 
-A single resting heart rate reading is a snapshot. It can be skewed by caffeine, a poor night of sleep, or a stressful morning. The trend over days, weeks, and months is what reveals your fitness trajectory and flags potential problems early.
+A single resting heart rate reading is a snapshot. It can be skewed by caffeine, a poor night of sleep, or a stressful morning. The trend over days, weeks, and months is what reveals your fitness trajectory and flags potential problems early. Beyond the number itself, your [resting heart rate trends](/learn/apple-watch-resting-heart-rate-trends/) reveal even more about your health.
 
 [Luen](/) tracks your resting heart rate alongside your daily exercise, sleep, daylight, and stress habits. You see not just the number but the patterns that drive it, so you can identify what actually moves your [resting heart rate](/learn/resting-heart-rate-by-age/) in either direction.

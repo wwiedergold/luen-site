@@ -77,4 +77,6 @@ These are approximate ranges for the general population. Athletes and very fit i
 
 ## Why It Matters
 
-Sleeping heart rate is one of the most reliable indicators of recovery and overall cardiovascular health because it removes the noise of daily activity, caffeine, and momentary stress. Tracking the trend reveals patterns that daytime measurements miss. [Luen](/) connects your sleeping heart rate data to your daily habits, showing you how exercise, sleep duration, and stress correlate with your overnight recovery.
+Sleeping heart rate is one of the most reliable indicators of recovery and overall cardiovascular health because it removes the noise of daily activity, caffeine, and momentary stress. Tracking the trend reveals patterns that daytime measurements miss. Beyond heart rate, sleep quality also impacts your cardio fitness. See [how sleep affects your VO2 Max](/learn/does-sleep-affect-vo2-max/).
+
+[Luen](/) connects your sleeping heart rate data to your daily habits, showing you how exercise, sleep duration, and stress correlate with your overnight recovery.

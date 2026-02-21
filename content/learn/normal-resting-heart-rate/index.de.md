@@ -115,6 +115,8 @@ Der **Trend über Wochen und Monate** erzählt eine viel wichtigere Geschichte:
 
 Die Apple Watch verfolgt diesen Trend automatisch. Aber die Zahl allein sagt dir nicht, **warum** sich dein Wert verändert.
 
+Über die Zahl hinaus verraten dir deine [Ruheherzfrequenz-Trends](/learn/apple-watch-resting-heart-rate-trends/) noch mehr über deine Gesundheit.
+
 [Luen](/) zeigt dir deine Ruheherzfrequenz als Trend neben deinen täglichen Gewohnheiten – Schlaf, Training, Stress und mehr. So erkennst du nicht nur die Richtung der Veränderung, sondern auch die Ursachen. Wenn dein Ruhepuls plötzlich steigt, siehst du sofort, ob es an schlechtem Schlaf, fehlendem Training oder einer anderen Veränderung liegen könnte.
 
 Willst du wissen, wie dein Wert im Vergleich zu anderen in deiner Alters- und Geschlechtsgruppe steht? Nutze unseren [Ruheherzfrequenz-Perzentil-Rechner](/tools/resting-heart-rate-percentile-calculator/). Und wenn du deinen Wert aktiv senken möchtest, lies unseren Leitfaden [Wie du deine Ruheherzfrequenz senkst](/learn/how-to-lower-resting-heart-rate/).
