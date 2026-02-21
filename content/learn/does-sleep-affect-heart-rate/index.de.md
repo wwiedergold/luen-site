@@ -49,6 +49,8 @@ Schlechter Schlaf erhöht nicht nur die Ruheherzfrequenz. Er beeinträchtigt die
 
 Chronischer Schlafmangel begrenzt die VO2-Max-Verbesserung selbst bei einem guten Trainingsprogramm. Sportler, die den Schlaf priorisieren, sehen schnellere Leistungssteigerungen als diejenigen, die das gleiche Trainingsvolumen absolvieren, aber weniger schlafen. Das gilt gleichermaßen für Freizeitsportler.
 
+Schlaf beeinflusst auch deinen VO2 Max direkt — erfahre, [ob Schlaf wirklich deinen VO2 Max beeinflusst](/learn/does-sleep-affect-vo2-max/).
+
 ## Worauf du achten solltest
 
 Ein steigender Trend deiner nächtlichen oder morgendlichen Herzfrequenz – selbst um wenige Schläge – kann auf angesammelten Stress, Übertraining oder unzureichenden Schlaf hindeuten. Dies ist eines der frühesten objektiven Warnsignale, die dein Körper dir gibt, oft bevor du dich müde oder erschöpft fühlst.

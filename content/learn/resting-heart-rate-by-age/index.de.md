@@ -87,3 +87,5 @@ Diese Anpassung ist einer der zuverlässigsten Indikatoren für kardiovaskuläre
 Die Apple Watch misst deine Herzfrequenz den ganzen Tag über mittels Photoplethysmografie – grüne LED-Lichter, die den Blutfluss durch dein Handgelenk erfassen. Sie ermittelt deine Ruheherzfrequenz anhand von Messungen, die bei längerer Ruhe und Inaktivität aufgenommen werden. Der Wert wird täglich aktualisiert und in Apple Health gespeichert.
 
 [Luen](/) liest deine Ruheherzfrequenz aus Apple Health und ordnet sie in den Kontext ein. Du siehst deinen Trend über Wochen und Monate, wie er im Vergleich zu deiner Altersgruppe abschneidet und wie er mit deinen Trainings-, Schlaf-, Tageslicht- und Stressmustern zusammenhängt. Eine steigende Ruheherzfrequenz kann ein frühes Signal sein, dass sich etwas in deiner Routine verändert hat – bevor du es selbst spürst.
+
+Du möchtest verstehen, was deine Trends über die Zeit bedeuten? Erfahre, [was deine Apple Watch Ruheherzfrequenz-Trends dir sagen](/learn/apple-watch-resting-heart-rate-trends/).

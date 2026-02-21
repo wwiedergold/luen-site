@@ -68,4 +68,6 @@ Chronic stress keeps your sympathetic nervous system activated, holding your hea
 
 These timelines assume 3-5 aerobic sessions per week. Starting from a higher resting heart rate generally means faster initial improvement. Those already at 55-60 bpm will see slower, more incremental gains. Use our [resting heart rate percentile calculator](/tools/resting-heart-rate-percentile-calculator/) to see where you currently stand and track your progress.
 
+Track your progress with our guide to [understanding your resting heart rate trends](/learn/apple-watch-resting-heart-rate-trends/).
+
 [Luen](/) tracks your resting heart rate alongside your exercise, sleep, daylight, and stress habits, so you can see which changes actually move the number rather than guessing.

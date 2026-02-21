@@ -69,3 +69,5 @@ Chronischer Stress hält dein sympathisches Nervensystem aktiviert und hält dei
 Diese Zeitrahmen setzen 3–5 aerobe Trainingseinheiten pro Woche voraus. Ein höherer Ausgangswert bedeutet in der Regel schnellere anfängliche Verbesserung. Wer bereits bei 55–60 bpm liegt, wird langsamere, schrittweise Fortschritte sehen. Nutze unseren [Ruheherzfrequenz-Perzentil-Rechner](/tools/resting-heart-rate-percentile-calculator/), um zu sehen, wo du aktuell stehst, und um deinen Fortschritt zu verfolgen.
 
 [Luen](/) verfolgt deine Ruheherzfrequenz zusammen mit deinen Trainings-, Schlaf-, Tageslicht- und Stressgewohnheiten, sodass du sehen kannst, welche Veränderungen die Zahl tatsächlich bewegen – statt zu raten.
+
+Verfolge deinen Fortschritt mit unserem Leitfaden zum [Verständnis deiner Ruheherzfrequenz-Trends](/learn/apple-watch-resting-heart-rate-trends/).

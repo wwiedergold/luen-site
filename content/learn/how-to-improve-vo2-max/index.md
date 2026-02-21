@@ -49,11 +49,11 @@ Already-fit individuals improve more slowly, typically 3-5% over the same period
 
 Apple Watch estimates VO2 Max after outdoor walks, runs, and hikes. The reading updates gradually as your fitness changes, not after a single session. It uses heart rate, pace, and elevation data to predict your [cardio fitness level](/learn/apple-watch-vo2-max-accuracy/). Indoor workouts, cycling, and swimming do not produce VO2 Max estimates on Apple Watch.
 
-[Luen](/) connects your VO2 Max trend to your daily habits so you can see what actually moves the needle over time. Rather than checking a number in isolation, you see how your exercise, sleep, daylight, and stress patterns relate to your cardio fitness trajectory.
+[Luen](/) connects your VO2 Max trend to your daily habits so you can see what actually moves the needle over time. Rather than checking a number in isolation, you see how your exercise, sleep, daylight, and stress patterns relate to your cardio fitness trajectory. Make sure your Apple Watch is actually capturing your progress — see [how often it updates VO2 Max](/learn/how-often-apple-watch-updates-vo2-max/).
 
 ## What Else Matters
 
-**Sleep quality** directly affects your body's ability to adapt to training. Your cardiovascular system builds fitness during recovery, not during the workout itself. Chronic poor sleep limits VO2 Max improvement even with a good training program. Aim for [7-9 hours of quality sleep](/learn/does-sleep-affect-heart-rate/).
+**Sleep quality** directly affects your body's ability to adapt to training. Your cardiovascular system builds fitness during recovery, not during the workout itself. Chronic poor sleep limits VO2 Max improvement even with a good training program. Aim for [7-9 hours of quality sleep](/learn/does-sleep-affect-heart-rate/). Training is only half the equation — [sleep plays a major role in your VO2 Max](/learn/does-sleep-affect-vo2-max/) as well.
 
 **Stress management** matters because chronic stress elevates your [resting heart rate](/learn/normal-resting-heart-rate/) and impairs recovery. If your resting heart rate is trending upward despite consistent training, stress or poor sleep may be the limiting factor.
 

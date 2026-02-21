@@ -49,7 +49,7 @@ Several common scenarios produce inaccurate VO2 Max readings on Apple Watch:
 
 **Cool-down walks after intense exercise.** If you finish a HIIT session and immediately start a walking cool-down, your heart rate is still elevated from the prior workout. Apple Watch sees a high heart rate at a low walking pace and estimates a low VO2 Max. This is one of the most common causes of [unexpectedly low readings](/learn/apple-watch-cardio-fitness-below-average/). For specific reasons your reading might drop, see [Why Did My Apple Watch VO2 Max Drop?](/learn/why-apple-watch-vo2-max-dropped/)
 
-**Indoor workouts only.** Apple Watch does not estimate VO2 Max from treadmill runs, cycling, swimming, or gym sessions. If you rarely exercise outdoors, your reading may be stale or based on limited data.
+**Indoor workouts only.** Apple Watch does not estimate VO2 Max from treadmill runs, cycling, swimming, or gym sessions. If you rarely exercise outdoors, your reading may be stale or based on limited data. Learn more about [how often Apple Watch updates your VO2 Max](/learn/how-often-apple-watch-updates-vo2-max/) and what triggers a new reading.
 
 **Loose watch fit.** Optical heart rate sensors need consistent skin contact. A loose band introduces noise into the heart rate data, which can skew the VO2 Max calculation in either direction.
 

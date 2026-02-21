@@ -93,7 +93,7 @@ Sometimes the drop is real. And this is where it gets interesting.
 
 VO2 Max genuinely responds to factors beyond just your training. Poor sleep, chronic stress, illness (even mild), and overtraining can all reduce your cardiovascular efficiency measurably. Research shows that [sleep quality alone](/learn/does-sleep-affect-heart-rate/) can account for meaningful variation in [resting heart rate](/learn/resting-heart-rate-while-sleeping/) and overall cardiovascular fitness.
 
-If your VO2 Max dropped gradually over several weeks alongside changes in your sleep patterns, stress levels, or training volume — the Watch might be telling you something worth listening to.
+If your VO2 Max dropped gradually over several weeks alongside changes in your sleep patterns, stress levels, or training volume — the Watch might be telling you something worth listening to. Read more about [how sleep affects your VO2 Max](/learn/does-sleep-affect-vo2-max/).
 
 **What to do:** Before dismissing the drop as a sensor error, honestly assess: Have you been sleeping worse? Under more stress? Training harder without adequate recovery? Fighting off a cold? These factors genuinely affect cardiovascular fitness, and your Watch may be the first thing to notice.
 
@@ -138,6 +138,8 @@ A few practical things to maximize the reliability of your estimates:
 Your Apple Watch VO2 Max probably dropped for a boring, technical reason — a cooldown walk, a software update, a sensor recalibration. Check the simple stuff first.
 
 But if the drop is real and sustained, it might be the most valuable health signal your Watch gives you. VO2 Max is one of the strongest predictors of [longevity and all-cause mortality](/learn/vo2-max-and-longevity/). A sustained decline is worth understanding, not dismissing.
+
+If your reading hasn't changed in a while, it might not be dropping — it might just not be updating. See [how often Apple Watch updates VO2 Max](/learn/how-often-apple-watch-updates-vo2-max/).
 
 The trick is knowing which drops matter and which ones don't. That's hard to do by staring at a single number in the Health app once a week.
 

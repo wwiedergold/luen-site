@@ -51,9 +51,13 @@ Die Apple Watch schätzt die VO2 Max nach Spaziergängen, Läufen und Wanderunge
 
 [Luen](/) verbindet deinen VO2 Max Trend mit deinen täglichen Gewohnheiten, sodass du sehen kannst, was tatsächlich den Unterschied macht. Anstatt eine Zahl isoliert zu prüfen, siehst du, wie deine Trainings-, Schlaf-, Tageslicht- und Stressmuster mit deiner Kardio-Fitness-Entwicklung zusammenhängen.
 
+Stelle sicher, dass deine Apple Watch deinen Fortschritt tatsächlich erfasst — sieh dir an, [wie oft sie den VO2 Max aktualisiert](/learn/how-often-apple-watch-updates-vo2-max/).
+
 ## Was sonst noch zählt
 
 **Schlafqualität** beeinflusst direkt die Fähigkeit deines Körpers, sich an das Training anzupassen. Dein Herz-Kreislauf-System baut Fitness während der Erholung auf, nicht während des Trainings selbst. Chronisch schlechter Schlaf begrenzt die VO2 Max Verbesserung selbst bei einem guten Trainingsprogramm. Strebe [7–9 Stunden qualitativ hochwertigen Schlaf](/learn/does-sleep-affect-heart-rate/) an.
+
+Training ist nur die halbe Gleichung — [Schlaf spielt eine große Rolle für deinen VO2 Max](/learn/does-sleep-affect-vo2-max/).
 
 **Stressmanagement** ist wichtig, weil chronischer Stress deine [Ruheherzfrequenz](/learn/normal-resting-heart-rate/) erhöht und die Erholung beeinträchtigt. Wenn deine Ruheherzfrequenz trotz regelmäßigem Training nach oben tendiert, könnten Stress oder schlechter Schlaf der limitierende Faktor sein.
 
