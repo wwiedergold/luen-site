@@ -22,20 +22,8 @@ disableHugoGeneratorInject = true
   changefreq = "monthly"
   priority = 0.5
 
-# Custom output format: _redirects file for Cloudflare Pages / Netlify
-# GitHub Pages handles trailing-slash redirects natively (301 when path/index.html exists).
-# This file provides server-side 301 redirects on platforms that support _redirects.
-[mediaTypes."text/redirects"]
-  delimiter = ""
-
-[outputFormats.REDIRECTS]
-  mediaType = "text/redirects"
-  baseName = "_redirects"
-  isPlainText = true
-  notAlternative = true
-
 [outputs]
-  home = ["HTML", "RSS", "REDIRECTS"]
+  home = ["HTML", "RSS"]
 
 # Site params
 [params]
