@@ -171,7 +171,16 @@ other = "Einmalkauf. Keine Abonnements. Nie."
 other = "Support"
 
 [support_intro]
-other = "Hast du eine Frage, einen Fehler gefunden oder möchtest Feedback geben? Wir freuen uns, von dir zu hören."
+other = "Hast du eine Frage, einen Fehler gefunden oder möchtest Feedback geben? Dieses Formular gilt für Luen und Daylight — dasselbe Team, eine Anlaufstelle."
+
+[form_app]
+other = "App"
+
+[form_app_luen]
+other = "Luen"
+
+[form_app_daylight]
+other = "Daylight"
 
 [form_email]
 other = "Deine E-Mail"

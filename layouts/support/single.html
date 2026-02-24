@@ -30,6 +30,13 @@
             <div class="card">
                 <form action="https://formspree.io/f/xwvqoqww" method="POST">
                     <div class="form-group">
+                        <label for="app" class="form-label">{{ i18n "form_app" }}</label>
+                        <select id="app" name="app" class="form-input">
+                            <option>{{ i18n "form_app_luen" }}</option>
+                            <option>{{ i18n "form_app_daylight" }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
                         <label for="email" class="form-label">{{ i18n "form_email" }}</label>
                         <input type="email" id="email" name="email" required class="form-input" autocomplete="email">
                     </div>
