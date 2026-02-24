@@ -1,37 +1,37 @@
 ---
-title: "Impressum"
-description: "Impressum von Luen. Angaben gemäß § 5 TMG."
-ogTitle: "Impressum – Luen"
+title: "Imprint"
+description: "Legal notice for luen apps. Information in accordance with § 5 TMG."
+ogTitle: "Imprint – luen apps"
 jsonLdType: "WebPage"
 ---
 
-## Impressum
+## Imprint
 
-### Angaben gemäß § 5 TMG
+### Information in accordance with § 5 TMG
 
 Willi Wiedergold<br>
 Astrid-Lindgren-Straße 10<br>
 53844 Troisdorf<br>
-Deutschland
+Germany
 
-### Kontakt
+### Contact
 
-E-Mail: [willi@luen.app](mailto:willi@luen.app)
+Email: [willi@luen.app](mailto:willi@luen.app)
 
-### Umsatzsteuer-ID
+### VAT ID
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:<br>
+VAT identification number in accordance with § 27a of the German VAT Act (Umsatzsteuergesetz):<br>
 DE346097782
 
-### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+### Responsible for content in accordance with § 18 (2) MStV
 
 Willi Wiedergold<br>
 Astrid-Lindgren-Straße 10<br>
 53844 Troisdorf
 
-### EU-Streitbeilegung
+### EU dispute resolution
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
+The European Commission provides a platform for online dispute resolution (ODR):
 [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
 
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.
