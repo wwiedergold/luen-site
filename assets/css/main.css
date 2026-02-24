@@ -290,4 +290,5 @@ footer a:hover {
 @media (max-width: 600px) {
     nav { gap: 16px; }
     .nav-cta { padding: 8px 16px; font-size: 13px; }
+    .lang-switch { display: none; }
 }
