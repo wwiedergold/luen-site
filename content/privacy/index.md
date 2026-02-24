@@ -1,73 +1,87 @@
 ---
 title: "Privacy Policy"
-description: "Luen Privacy Policy. Your health data never leaves your device. We do not collect, transmit, store, or share any personal or health information."
-ogTitle: "Privacy Policy – Luen"
+description: "Privacy Policy for Luen and Daylight by luen. Your health data never leaves your device. We operate no server, no database, and no account system."
+ogTitle: "Privacy Policy – luen apps"
 jsonLdType: "WebPage"
 ---
 
-## Privacy Policy
+## Privacy Policy — luen apps
 
-<span class="date-badge">Last updated February 1, 2026</span>
+<span class="date-badge">Effective date: February 24, 2026</span>
 
-### Overview
+Published at: [www.luen.app/privacy](/privacy/)
+Applies to: **Luen** and **Daylight** by luen
 
-Luen is designed with privacy at its core. Your health data never leaves your device. We do not collect, transmit, store, or share any personal or health information.
+### Who we are
 
-### Data We Access
+Luen and Daylight are iOS apps developed and published by Willi Wiedergold ("we", "us", "our"). This privacy policy covers both apps and explains what happens — and what does not happen — with your data.
 
-Luen reads the following data from Apple Health, with your explicit permission:
+For questions, contact us at: [support@luen.app](mailto:support@luen.app)
 
-- VO2 Max
-- Resting Heart Rate
-- Heart Rate
-- Heart Rate Variability (HRV)
-- Sleep Analysis
-- Workouts
-- Time in Daylight
-- Date of Birth
-- Biological Sex
+### The short version
 
-### How We Use Your Data
+Neither app collects personal data on our end. We operate no server, no database, and no account system. We cannot see who you are, where you are, or how you use our apps. All health and fitness data stays on your device. The only outbound network request across both apps is a coordinates-based UV index lookup in Daylight — no user identifier is attached.
 
-All data is processed locally on your device to:
+### What our apps access and why
 
-- Show your fitness metrics and percentile rankings
-- Track daily habit progress
-- Generate personalised insights about correlations between your habits and fitness
-- Display weekly summaries and trends
+#### Apple Health data (HealthKit — Read Only)
 
-### Data Storage
+Both apps request read-only access to specific Apple Health metrics. No health data is ever transmitted off your device, stored on our systems, or shared with any third party. We do not write to Apple Health.
 
-All app data is stored locally on your device using Apple's SwiftData framework. No data is sent to external servers, cloud services, or third parties. There is no account system and no remote database.
+**Luen** reads: VO2 Max, Resting Heart Rate, Heart Rate, Heart Rate Variability (HRV), Sleep Analysis, Workouts, Time in Daylight, Date of Birth, and Biological Sex. This data is used locally to generate fitness metrics, percentile rankings, habit tracking, personalized insights, and trend summaries.
 
-### Third-Party Services
+**Daylight** reads: Time in Daylight (recorded by Apple Watch). This data is used locally to calculate your estimated Vitamin D synthesis from sun exposure.
 
-Luen does not use any third-party analytics, advertising, tracking, or data collection services. There are no SDKs from external companies in the app.
+#### Location (Daylight only — "When In Use")
 
-### Data Sharing
+Daylight requests your device location once per day to look up the UV index for your area via the Open-Meteo API. Your coordinates (latitude and longitude) and the current date are sent to Open-Meteo's servers for this purpose. No other location data is collected or transmitted. Your location is never stored by us and never sent to any other party.
 
-We do not share, sell, rent, or disclose any of your data to anyone. Period.
+If you deny location access in Daylight, UV-based synthesis calculations will not function. Supplement tracking continues to work without location.
 
-### Health Data
+Luen does not request or use location data.
 
-In accordance with Apple's guidelines, health data accessed through HealthKit is never used for advertising, marketing, or data mining purposes. Luen reads from Apple Health but never writes to it.
+### Local storage
 
-### Children's Privacy
+**Luen** stores your health metrics and app data locally using Apple's SwiftData framework.
 
-Luen is not directed at children under 13. We do not knowingly collect data from children.
+**Daylight** stores your skin type, supplement dose, cached UV forecasts, and app preferences locally using standard iOS storage (UserDefaults).
 
-### Data Retention and Deletion
-
-Since all data is stored locally on your device, you have full control. Deleting the app removes all Luen data from your device. You can also revoke Health access at any time in Settings > Health > Luen.
+In both cases, this data never leaves your device.
 
 ### Notifications
 
-Luen may send local notifications for weekly recaps and milestone achievements. These are generated entirely on-device and do not involve any external push notification services. You can disable notifications in the app's settings or in iOS Settings.
+Both apps use local notifications only (weekly recaps in Luen, daily UV nudges in Daylight). Notifications are generated entirely on your device. No external push service is involved.
 
-### Changes to This Policy
+### Third-party services
 
-If we update this policy, we will post the revised version on this page with an updated date. Continued use of the app after changes constitutes acceptance of the revised policy.
+The only third-party service either app communicates with is [Open-Meteo](https://open-meteo.com), used by Daylight only. Open-Meteo is an open-source weather and UV forecast API. The data sent is limited to: latitude, longitude, and date. No user identifier, device ID, or personal information is included. Open-Meteo's privacy policy is available at [open-meteo.com/en/privacy](https://open-meteo.com/en/privacy).
+
+Luen makes no outbound network requests whatsoever.
+
+Neither app contains advertising SDKs, analytics frameworks, or crash reporting services.
+
+### Data retention
+
+We retain no data because we receive no data. All information our apps use — health data, location, settings — exists only on your device and is governed by Apple's iOS data retention policies. Uninstalling either app removes all of its data from your device.
+
+### Your rights (GDPR)
+
+If you are located in the European Economic Area, you have the following rights under the General Data Protection Regulation:
+
+**Right of access** — You have the right to know what personal data we process about you. As described above, we process no personal data on our systems.
+
+**Right to erasure** — You may delete all app data by uninstalling the respective app. All locally stored data is removed upon deletion.
+
+**Right to object** — In Daylight, you may withdraw location permission at any time in iOS Settings → Privacy & Security → Location Services → Daylight. In both apps, you may revoke Health access in iOS Settings → Health → Data Access & Devices.
+
+**Right to lodge a complaint** — You may file a complaint with your local data protection authority.
+
+The legal basis for Daylight's transmission of coordinates to Open-Meteo is legitimate interest (Article 6(1)(f) GDPR): the transmission is necessary to retrieve the UV index required for the app's core function, and no user identification occurs.
+
+### Changes to this policy
+
+If we make material changes to this policy, we will update the effective date above. We encourage you to review this page periodically.
 
 ### Contact
 
-If you have questions about this privacy policy or your data, please contact us at [our support page](/support/) or email [support@luen.app](mailto:support@luen.app).
+[support@luen.app](mailto:support@luen.app)
