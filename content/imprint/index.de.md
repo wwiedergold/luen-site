@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 description: "Impressum von Luen. Angaben gemäß § 5 TMG."
-ogTitle: "Impressum – Luen"
+ogTitle: "Impressum – luen apps"
 jsonLdType: "WebPage"
 ---
 
