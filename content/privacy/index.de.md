@@ -54,7 +54,7 @@ Beide Apps verwenden ausschließlich lokale Benachrichtigungen (wöchentliche R�
 
 ### Drittanbieter-Dienste
 
-Der einzige Drittanbieter-Dienst, mit dem eine der Apps kommuniziert, ist [Open-Meteo](https://open-meteo.com), das nur von Daylight genutzt wird. Open-Meteo ist eine Open-Source-Wetter- und UV-Vorhersage-API. Die gesendeten Daten beschränken sich auf: Breitengrad, Längengrad und Datum. Es werden keine Benutzerkennung, Geräte-ID oder persönlichen Informationen übermittelt. Die Datenschutzerklärung von Open-Meteo ist verfügbar unter [open-meteo.com/en/privacy](https://open-meteo.com/en/privacy).
+Der einzige Drittanbieter-Dienst, mit dem eine der Apps kommuniziert, ist [Open-Meteo](https://open-meteo.com), das nur von Daylight genutzt wird. Open-Meteo ist eine Open-Source-Wetter- und UV-Vorhersage-API. Die gesendeten Daten beschränken sich auf: ungefähren Breiten- und Längengrad (gerundet) und Datum. Es werden keine Benutzerkennung, Geräte-ID oder Geräte-Fingerabdruck übermittelt. Wie bei jeder Netzwerkanfrage ist deine IP-Adresse jedoch für die Server von Open-Meteo sichtbar. Die Datenschutzerklärung von Open-Meteo ist verfügbar unter [open-meteo.com/en/privacy](https://open-meteo.com/en/privacy).
 
 Luen stellt keinerlei ausgehende Netzwerkanfragen.
 

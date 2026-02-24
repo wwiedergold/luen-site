@@ -54,7 +54,7 @@ Both apps use local notifications only (weekly recaps in Luen, daily UV nudges i
 
 ### Third-party services
 
-The only third-party service either app communicates with is [Open-Meteo](https://open-meteo.com), used by Daylight only. Open-Meteo is an open-source weather and UV forecast API. The data sent is limited to: latitude, longitude, and date. No user identifier, device ID, or personal information is included. Open-Meteo's privacy policy is available at [open-meteo.com/en/privacy](https://open-meteo.com/en/privacy).
+The only third-party service either app communicates with is [Open-Meteo](https://open-meteo.com), used by Daylight only. Open-Meteo is an open-source weather and UV forecast API. The data sent is limited to: approximate latitude and longitude (rounded) and date. No user identifier, device ID, or device fingerprint is included. However, as with any network request, your IP address is visible to Open-Meteo's servers. Open-Meteo's privacy policy is available at [open-meteo.com/en/privacy](https://open-meteo.com/en/privacy).
 
 Luen makes no outbound network requests whatsoever.
 
